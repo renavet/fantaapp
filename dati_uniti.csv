@@ -1,0 +1,521 @@
+Nome_csv,Squadra_csv,Ruolo,Media,ALG FCP,Punteggio FantaCalcioPedia,Solidità fantainvestimento,Resistenza infortuni,Ultimi Arrivi,In Crescita,Rischiosi,Fuoriclasse,Outsider,Titolari,Economici,Giovani,Infortunati,Buona Media,Goleador,Assistman,Rigorista,Sp. Piazzati,Presenze previste,Gol previsti,Assist previsti,MatchingKey,Id,R,RM,Nome_excel,Squadra_excel,Qt.A,Qt.I,Diff.,Qt.A M,Qt.I M,Diff.M,FVM,FVM M
+abdilgaard oliver,Como,C,48.75,52,63,20,60,,,,,,,,,,Buona Media,,,,,11/20,0/2,0/2,abdilgaard,,,,,,,,,,,,,
+abraham,Roma,A,63.25,76,77,60,40,,,,,,,,,,,Goleador,,,,21/30,8/11,4/7,abraham,2544.0,A,Pc,abraham,Roma,13.0,13.0,0.0,13.0,13.0,0.0,30.0,27.0
+acerbi,Inter,D,66.75,70,77,60,60,,,,,,,,,,Buona Media,Goleador,,,,21/30,0/2,0/2,acerbi,513.0,D,Dc,acerbi,Inter,10.0,10.0,0.0,10.0,10.0,0.0,28.0,28.0
+adams c.,Torino,A,62.5,78,72,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,8/11,3/5,adams,6646.0,A,A,adams c.,Torino,14.0,14.0,0.0,15.0,15.0,0.0,61.0,64.0
+adli,Milan,C,54.75,59,60,40,60,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,adli,5875.0,C,M;C,adli,Milan,5.0,5.0,0.0,6.0,6.0,0.0,10.0,11.0
+adopo,Cagliari,C,51.5,41,65,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,0/3,0/2,adopo,4870.0,C,M;C,adopo,Cagliari,3.0,2.0,1.0,3.0,2.0,1.0,3.0,3.0
+aebischer,Bologna,C,59.0,72,64,60,40,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,aebischer,5784.0,C,C;T,aebischer,Bologna,10.0,10.0,0.0,10.0,10.0,0.0,20.0,20.0
+akpa akpro,Lazio,C,55.0,58,62,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,akpa,5286.0,C,M;C,akpa akpro,Lazio,1.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0
+almqvist,Parma,A,55.0,58,62,40,60,,,,,,,,,,,,,,,11/20,3/5,3/5,almqvist,6207.0,A,W;A,almqvist,Parma,9.0,9.0,0.0,10.0,10.0,0.0,14.0,18.0
+altare,Venezia,D,56.25,46,59,40,80,,,,,,,,,,,,,,,21/30,0/3,0/3,altare,5447.0,D,Dc,altare,Venezia,2.0,3.0,-1.0,2.0,3.0,-1.0,5.0,5.0
+amrabat,Fiorentina,C,55.75,58,65,40,60,,,,,,,,,,,,,,,0/10,0/2,0/2,amrabat,4522.0,C,M;C,amrabat,Fiorentina,8.0,8.0,0.0,8.0,8.0,0.0,15.0,15.0
+andersen magnus kofod,Venezia,C,51.25,48,57,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,andersen,6674.0,C,M;C,andersen m.k.,Venezia,4.0,2.0,2.0,4.0,2.0,2.0,13.0,13.0
+anderson felipe,Lazio,A,69.25,78,79,60,60,,,,,,,,,,Buona Media,Goleador,Assistman,,,21/30,4/7,4/7,anderson,,,,,,,,,,,,,
+angelino,Roma,D,57.75,66,65,40,60,,,,,,,,,,,,Assistman,,,21/30,0/1,3/5,angelino,4772.0,D,Ds;E,angelino,Roma,10.0,10.0,0.0,10.0,10.0,0.0,27.0,27.0
+anguissa andre zambo,Napoli,C,66.5,76,70,60,60,,,,,,,,,,Buona Media,,,,,30+,0/3,0/3,anguissa,,,,,,,,,,,,,
+ankeye,Genoa,A,44.0,36,60,20,60,,,,,,,,,,,Goleador,,,,0/10,0/3,0/3,ankeye,6565.0,A,Pc,ankeye,Genoa,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+arnautovic,Inter,A,64.75,70,89,40,60,,,,,,,,,,Buona Media,Goleador,,Rigorista,,11/20,4/7,0/3,arnautovic,4268.0,A,Pc,arnautovic,Inter,8.0,8.0,0.0,7.0,7.0,0.0,20.0,16.0
+arthur melo,Juventus,C,61.0,73,71,60,40,,,,,,,,,,,,Assistman,,,21/30,3/5,4/7,arthur,,,,,,,,,,,,,
+asllani,Inter,C,57.75,66,65,40,60,,,,,,,,,,,,Assistman,,,11/20,0/3,0/3,asllani,5719.0,C,M;C,asllani,Inter,5.0,5.0,0.0,6.0,6.0,0.0,14.0,17.0
+audero,Como,P,56.25,56,69,40,60,,,,,,,,,,,,,,,0/10,8/11,0,audero,761.0,P,Por,audero,Como,9.0,9.0,0.0,9.0,9.0,0.0,27.0,27.0
+augello,Cagliari,D,59.75,72,67,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,augello,4421.0,D,Ds;E,augello,Cagliari,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+augusto carlos,Inter,D,67.75,86,65,60,60,,,,,,,,,,Buona Media,Goleador,Assistman,,,21/30,3/5,4/7,augusto,,,,,,,,,,,,,
+azzi,Cagliari,D,55.25,56,65,40,60,,,,,,,,,,,,,,,21/30,0/3,0/3,azzi,6231.0,D,Dd;Ds;E,azzi,Cagliari,4.0,4.0,0.0,5.0,5.0,0.0,7.0,8.0
+badelj,Genoa,C,52.0,63,65,40,40,,,,,,,,,,,,,,,21/30,0/3,0/3,badelj,170.0,C,M;C,badelj,Genoa,7.0,6.0,1.0,7.0,6.0,1.0,9.0,10.0
+bagnolini,Bologna,P,40.0,32,48,20,60,,,,,,,,,,,,,,,0/10,0,0,bagnolini,5822.0,P,Por,bagnolini,Bologna,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+bakker,Atalanta,D,62.25,57,72,60,60,,,,,,,,,,,,,,,21/30,0/3,3/5,bakker,5067.0,D,E,bakker,Atalanta,4.0,4.0,0.0,4.0,3.0,1.0,9.0,7.0
+baldanzi tommaso,Roma,C,64.75,65,74,60,60,,,,,Outsider,,,,,Buona Media,Goleador,,,,21/30,3/5,4/7,baldanzi,5823.0,C,T;A,baldanzi,Roma,8.0,8.0,0.0,8.0,8.0,0.0,20.0,20.0
+balogh,Parma,D,52.25,48,61,40,60,,,,,,,,,,,,,,,11/20,0/1,0/1,balogh,5353.0,D,Dc,balogh,Parma,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+banda,Lecce,A,43.0,48,44,40,40,,,,,,,,,,,,,,,11/20,0/3,3/5,banda,6001.0,A,W;A,banda,Lecce,9.0,9.0,0.0,10.0,10.0,0.0,13.0,16.0
+bani,Genoa,D,54.5,51,67,40,60,,,,,,,,,,,,,,,30+,0/2,0/2,bani,2285.0,D,Dc,bani,Genoa,7.0,7.0,0.0,7.0,7.0,0.0,14.0,14.0
+barak,Fiorentina,C,64.25,83,74,60,40,,,,,,,,,,Buona Media,Goleador,Assistman,Rigorista,,21/30,4/7,3/5,barak,2172.0,C,T,barak,Fiorentina,6.0,6.0,0.0,6.0,6.0,0.0,14.0,12.0
+barba,Como,D,48.25,48,65,40,40,,,,,,,,,,,,,,,11/20,0/2,0/2,barba,134.0,D,Ds;Dc,barba,Como,2.0,1.0,1.0,2.0,1.0,1.0,3.0,3.0
+barella,Inter,C,84.25,97,80,80,80,,,,Fuoriclasse,,,,,,Buona Media,,,,,21/30,4/7,3/5,barella,1870.0,C,C,barella,Inter,21.0,20.0,1.0,20.0,19.0,1.0,75.0,75.0
+baschirotto,Lecce,D,54.0,74,42,40,60,,,,,Outsider,,,,,,,,,,0/10,0/2,0,baschirotto,5835.0,D,Dd;Dc,baschirotto,Lecce,9.0,9.0,0.0,9.0,10.0,-1.0,20.0,24.0
+baselli,Como,C,56.5,52,74,60,40,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,baselli,556.0,C,M;C,baselli,Como,4.0,3.0,1.0,4.0,3.0,1.0,7.0,9.0
+basic toma,Lazio,C,61.0,58,66,40,80,,,,,,,,,,,,,,,11/20,3/5,0/3,basic,,,,,,,,,,,,,
+bastoni,Inter,D,72.5,75,75,80,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,bastoni,2120.0,D,Dc,bastoni,Inter,16.0,16.0,0.0,16.0,16.0,0.0,50.0,50.0
+belahyane,Verona,C,50.5,43,59,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,belahyane,6191.0,C,M;C,belahyane,Verona,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+belardinelli,Empoli,C,47.5,48,62,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,belardinelli,6203.0,C,M;C,belardinelli,Empoli,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+bellanova,Atalanta,D,71.75,71,76,60,80,,,,,Outsider,,,,,,,,,,21/30,3/5,4/7,bellanova,4887.0,D,E,bellanova,Atalanta,13.0,13.0,0.0,12.0,12.0,0.0,45.0,40.0
+belotti,Como,A,53.25,63,70,40,40,,,,,,,,,,,Goleador,,Rigorista,,11/20,4/7,3/5,belotti,441.0,A,Pc,belotti,Como,17.0,17.0,0.0,16.0,16.0,0.0,75.0,72.0
+beltran l.,Fiorentina,A,60.25,73,68,40,60,,,,,,,,,,,Goleador,,Rigorista,,11/20,4/7,3/5,beltran,6409.0,A,A,beltran l.,Fiorentina,11.0,11.0,0.0,11.0,11.0,0.0,28.0,32.0
+benedyczak,Parma,A,62.75,67,64,60,60,,,,,Outsider,,,,,,Goleador,,,,30+,4/7,3/5,benedyczak,6667.0,A,A,benedyczak,Parma,10.0,10.0,0.0,10.0,10.0,0.0,20.0,22.0
+bennacer,Milan,C,67.0,74,74,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,3/5,bennacer,2818.0,C,M;C,bennacer,Milan,8.0,7.0,1.0,8.0,8.0,0.0,15.0,17.0
+berardi a.,Verona,P,37.25,29,40,20,60,,,,,,,,,,,,,,,0/10,0/1,0,berardi,4491.0,P,Por,berardi a.,Verona,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+bernabe adrian,Parma,C,66.0,79,65,60,60,,,,Fuoriclasse,,,,,,,Goleador,Assistman,,,30+,4/7,4/7,bernabe,6666.0,C,C;T,bernabe,Parma,14.0,14.0,0.0,14.0,14.0,0.0,45.0,45.0
+bertinato,Venezia,P,43.75,40,55,20,60,,,,,,,,,,,,,,,0/10,0,0,bertinato,5521.0,P,Por,bertinato,Venezia,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+bettella,Monza,D,39.5,46,52,20,40,,,,,,,,,,,,,,,0/10,0,0,bettella,2737.0,D,Dc,bettella,Monza,2.0,2.0,0.0,2.0,2.0,0.0,3.0,3.0
+beukema,Bologna,D,56.5,62,64,40,60,,,,,,,,,,,Goleador,,,,21/30,0/3,0/2,beukema,6202.0,D,Dc,beukema,Bologna,7.0,7.0,0.0,7.0,7.0,0.0,16.0,16.0
+bianco,Fiorentina,C,48.25,54,59,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,bianco,5516.0,C,M;C,bianco,Fiorentina,3.0,2.0,1.0,3.0,2.0,1.0,2.0,2.0
+bijol,Udinese,D,57.0,65,63,40,60,,,,,,,,,,Buona Media,Goleador,,,,21/30,0/3,0/2,bijol,5847.0,D,Dc,bijol,Udinese,9.0,8.0,1.0,9.0,8.0,1.0,20.0,20.0
+biraghi,Fiorentina,D,65.75,71,72,60,60,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,biraghi,252.0,D,B;Ds;E,biraghi,Fiorentina,8.0,7.0,1.0,9.0,8.0,1.0,27.0,37.0
+birindelli,Monza,D,58.25,71,62,40,60,,,,,,,,,,,,,,,11/20,0/2,0/3,birindelli,5838.0,D,Dd;Ds;E,birindelli,Monza,5.0,5.0,0.0,5.0,5.0,0.0,8.0,9.0
+bisseck,Inter,D,63.0,57,75,60,60,,,,,Outsider,,,,,,Goleador,,,,30+,3/5,0/2,bisseck,6217.0,D,Dc,bisseck,Inter,5.0,5.0,0.0,5.0,5.0,0.0,11.0,11.0
+bjarkason bjarki steinn,Venezia,C,46.5,50,56,20,60,,,,,,,,,,,,,,,0/10,0/2,0/2,bjarkason,5485.0,C,C;W,bjarkason,Venezia,4.0,4.0,0.0,4.0,4.0,0.0,6.0,6.0
+boer pietro,Roma,P,41.25,48,37,20,60,,,,,,,,,,,,,,,0/10,0,0,boer,,,,,,,,,,,,,
+bohinen,Genoa,C,58.25,49,64,40,80,,,,,,,,,,,,,,,11/20,0/2,0/2,bohinen,5798.0,C,M;C,bohinen,Genoa,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+bondo,Monza,C,50.0,59,61,20,60,,,,,,,,,,,,,,,0/10,0/1,0/1,bondo,5992.0,C,M;C,bondo,Monza,4.0,3.0,1.0,4.0,3.0,1.0,5.0,5.0
+bonifazi kevin,Bologna,D,49.75,55,64,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,bonifazi,,,,,,,,,,,,,
+bonny,Parma,A,63.75,66,69,60,60,,,,,Outsider,,,,,,,Assistman,,,21/30,4/7,4/7,bonny,6669.0,A,Pc,bonny,Parma,9.0,8.0,1.0,8.0,7.0,1.0,28.0,26.0
+borbei alexandru,Lecce,P,40.0,38,42,20,60,,,,,,,,,,,,,,,0/10,0,0,borbei,,,,,,,,,,,,,
+bove,Roma,C,56.5,65,61,40,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/3,0/3,bove,5423.0,C,M;C,bove,Roma,5.0,5.0,0.0,6.0,6.0,0.0,10.0,12.0
+brancolini,Empoli,P,47.25,41,48,40,60,,,,,,,,,,,,,,,0/10,0,0,brancolini,4351.0,P,Por,brancolini,Empoli,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+braunoder,Como,C,50.25,56,65,20,60,,,,,Outsider,,,,,,,,,,21/30,3/5,3/5,braunoder,6656.0,C,M;C,braunoder,Como,3.0,3.0,0.0,4.0,4.0,0.0,8.0,10.0
+brekalo josip,Fiorentina,A,58.25,63,70,40,60,,,,,,,,,,Buona Media,,,,,11/20,3/5,3/5,brekalo,,,,,,,,,,,,,
+bremer,Juventus,D,67.75,82,69,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,bremer,2788.0,D,Dc,bremer,Juventus,16.0,16.0,0.0,16.0,16.0,0.0,52.0,52.0
+brenner,Udinese,A,46.5,44,62,40,40,,,,,,,,,,,Goleador,,Rigorista,,21/30,8/11,3/5,brenner,6213.0,A,A,brenner,Udinese,8.0,7.0,1.0,8.0,7.0,1.0,12.0,12.0
+brescianini,Atalanta,C,60.0,76,64,40,60,,,,,Outsider,,,,,,Goleador,,,,11/20,3/5,3/5,brescianini,4947.0,C,M;C,brescianini,Atalanta,7.0,4.0,3.0,8.0,5.0,3.0,29.0,34.0
+buchanan tajon,Inter,C,56.75,59,68,40,60,,,,,,,,,,,,Assistman,,,0/10,0/3,0/3,buchanan,6532.0,C,E;W,buchanan t.,Inter,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+buongiorno,Napoli,D,60.0,76,64,40,60,,,,,Outsider,,,,,,,,,,30+,0/2,0/2,buongiorno,2724.0,D,Dc,buongiorno,Napoli,16.0,16.0,0.0,16.0,16.0,0.0,51.0,51.0
+burnete,Lecce,A,48.0,60,52,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,burnete,6418.0,A,Pc,burnete,Lecce,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+busio,Venezia,C,54.5,55,63,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,busio,5507.0,C,C,busio,Venezia,7.0,7.0,0.0,7.0,7.0,0.0,15.0,14.0
+cabal,Juventus,D,54.75,64,55,40,60,,,,,Outsider,,,,,,,,,,0/10,0/2,0/2,cabal,6039.0,D,B;Ds;E,cabal,Juventus,6.0,5.0,1.0,7.0,6.0,1.0,11.0,13.0
+cacace,Empoli,D,56.5,64,62,40,60,,,,,,,,,,,,,,,11/20,0/2,0/3,cacace,5804.0,D,Ds;E,cacace,Empoli,3.0,3.0,0.0,3.0,3.0,0.0,5.0,5.0
+calabria,Milan,D,65.0,64,76,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,calabria,357.0,D,Dd;E,calabria,Milan,7.0,7.0,0.0,7.0,7.0,0.0,13.0,13.0
+caldirola,Monza,D,55.5,59,63,40,60,,,,,,,,,,,,,,,21/30,0/1,0/1,caldirola,4958.0,D,Ds;Dc,caldirola,Monza,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+calhanoglu,Inter,C,76.0,91,73,60,80,,,,,,,,,,Buona Media,Goleador,Assistman,,,21/30,4/7,4/7,calhanoglu,2194.0,C,M;C,calhanoglu,Inter,27.0,28.0,-1.0,29.0,30.0,-1.0,152.0,172.0
+camara d.,Parma,C,47.0,48,60,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,camara,5421.0,C,C;T,camara d.,Parma,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+cambiaghi,Bologna,A,59.5,71,67,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,8/11,0/3,cambiaghi,4436.0,A,A,cambiaghi,Bologna,12.0,12.0,0.0,12.0,12.0,0.0,20.0,20.0
+cambiaso,Juventus,D,66.75,83,64,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/2,cambiaso,5520.0,D,Dd;Ds;E,cambiaso,Juventus,10.0,9.0,1.0,11.0,10.0,1.0,34.0,40.0
+cancellieri,Parma,A,61.5,62,64,40,80,,,,,,,,,,,,,,,0/10,0/3,0/3,cancellieri,5500.0,A,W;A,cancellieri,Parma,4.0,4.0,0.0,4.0,4.0,0.0,5.0,6.0
+candela,Venezia,D,59.5,53,65,60,60,,,,,,,,,,,,Assistman,,,30+,0/3,3/5,candela,4458.0,D,Dd;E,candela,Venezia,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+caprari,Monza,A,58.25,59,74,60,40,,,,,,,,,,Buona Media,,,Rigorista,,21/30,4/7,3/5,caprari,1958.0,A,A,caprari,Monza,9.0,9.0,0.0,9.0,9.0,0.0,19.0,20.0
+caprile,Napoli,P,58.5,69,65,40,60,,,,,,,,,,,,,,,30+,0,0,caprile,4360.0,P,Por,caprile,Napoli,2.0,2.0,0.0,2.0,2.0,0.0,4.0,4.0
+caputo,Empoli,A,61.25,48,77,60,60,,,,,,,,,,,Goleador,,Rigorista,,30+,12/15,3/5,caputo,2819.0,A,Pc,caputo,Empoli,5.0,5.0,0.0,5.0,5.0,0.0,15.0,13.0
+carboni a.,Monza,D,53.0,49,63,40,60,,,,,,,,,,,,,,,0/10,0/2,0/2,carboni,4925.0,D,Ds;Dc,carboni a.,Monza,5.0,5.0,0.0,6.0,6.0,0.0,8.0,9.0
+carnesecchi,Atalanta,P,66.5,71,75,60,60,,,,,,,,,,,,,,,21/30,30/40,0,carnesecchi,4431.0,P,Por,carnesecchi,Atalanta,13.0,13.0,0.0,13.0,13.0,0.0,20.0,20.0
+casale,Lazio,D,64.5,68,70,40,80,,,,,Outsider,,,,,,,,,,21/30,0/3,0/3,casale,5498.0,D,Dc,casale,Lazio,8.0,8.0,0.0,8.0,8.0,0.0,15.0,15.0
+cassa federico,Atalanta,C,21.75,0,47,20,20,,,,,,,,,,,,,,,0/10,0,0,cassa,,,,,,,,,,,,,
+castellanos,Lazio,A,60.75,73,70,40,60,,,,,,,,,,,Goleador,,,,11/20,4/7,0/3,castellanos,6226.0,A,Pc,castellanos,Lazio,22.0,21.0,1.0,22.0,21.0,1.0,105.0,100.0
+castro s.,Bologna,A,49.75,57,62,20,60,,,,,,,,,,,Goleador,,,,0/10,3/5,0/3,castro,6572.0,A,Pc,castro s.,Bologna,8.0,8.0,0.0,8.0,7.0,1.0,40.0,35.0
+castrovilli,Lazio,C,54.0,66,70,60,20,,,,,,,,,,Buona Media,,,,,21/30,4/7,3/5,castrovilli,4377.0,C,C;T,castrovilli,Lazio,10.0,10.0,0.0,10.0,10.0,0.0,20.0,20.0
+cataldi,Lazio,C,58.0,67,65,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,cataldi,333.0,C,M;C,cataldi,Lazio,3.0,3.0,0.0,3.0,3.0,0.0,7.0,7.0
+celik,Roma,D,57.5,66,64,40,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,0/2,0/3,celik,4657.0,D,Dd;E,celik,Roma,3.0,3.0,0.0,3.0,3.0,0.0,12.0,12.0
+cerri,Como,A,60.25,55,66,40,80,,,,,,,,,,,,,,,11/20,3/5,0/3,cerri,306.0,A,Pc,cerri,Como,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+chajia moutir,Como,A,47.5,52,58,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,chajia,,,,,,,,,,,,,
+charpentier,Parma,A,55.0,58,62,40,60,,,,,,,,,,,,,,,11/20,3/5,0/3,charpentier,6670.0,A,Pc,charpentier,Parma,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+chichizola,Parma,P,52.5,48,62,40,60,,,,,,,,,,,,,,,21/30,0,0,chichizola,6661.0,P,Por,chichizola,Parma,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+chiesa,Juventus,A,72.25,84,85,60,60,,,,,,,,,,Buona Media,Goleador,,,,30+,8/11,4/7,chiesa,2002.0,A,A,chiesa,Juventus,20.0,20.0,0.0,20.0,20.0,0.0,65.0,67.0
+chiesa mattia,Verona,A,36.75,26,41,20,60,,,,,,,,,,,,,,,0/10,0,0,chiesa,2002.0,A,A,chiesa,Juventus,20.0,20.0,0.0,20.0,20.0,0.0,65.0,67.0
+christensen o.,Fiorentina,P,56.25,40,65,60,60,,,,,,,,,,,,,,,21/30,40/50,0,christensen,6403.0,P,Por,christensen o.,Fiorentina,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+chukwueze samuel,Milan,C,66.0,64,80,60,60,,,,,,,,,,,Goleador,Assistman,,,21/30,4/7,4/7,chukwueze,4856.0,C,W;A,chukwueze,Milan,11.0,11.0,0.0,10.0,10.0,0.0,35.0,35.0
+ciocci,Cagliari,P,40.75,41,42,20,60,,,,,,,,,,,,,,,0/10,0,0,ciocci,4929.0,P,Por,ciocci,Cagliari,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+circati,Parma,D,53.25,51,62,40,60,,,,,Outsider,,,,,,,,,,21/30,0/3,0/3,circati,6663.0,D,Dc,circati,Parma,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+ciurria,Monza,C,55.5,59,63,40,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,0/3,4/7,ciurria,5880.0,C,E;W,ciurria,Monza,5.0,5.0,0.0,6.0,6.0,0.0,8.0,10.0
+coco,Torino,D,61.75,60,67,60,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/3,0/2,coco,6642.0,D,Dc,coco,Torino,8.0,8.0,0.0,8.0,8.0,0.0,20.0,20.0
+colak antonio,Parma,A,53.75,56,59,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,colak,,,,,,,,,,,,,
+colombo,Empoli,A,54.5,51,67,40,60,,,,,Outsider,,,,,,Goleador,,Rigorista,,11/20,3/5,3/5,colombo,4923.0,A,Pc,colombo,Empoli,12.0,12.0,0.0,11.0,11.0,0.0,42.0,35.0
+colpani,Fiorentina,C,68.75,81,74,60,60,,,,,Outsider,,,,,Buona Media,Goleador,,,,21/30,4/7,3/5,colpani,5878.0,C,T,colpani,Fiorentina,23.0,23.0,0.0,22.0,22.0,0.0,94.0,94.0
+comuzzo,Fiorentina,D,39.75,0,59,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,comuzzo,6495.0,D,Dc,comuzzo,Fiorentina,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+contini,Napoli,P,37.75,41,30,20,60,,,,,,,,,,,,,,,0/10,0,0,contini,2845.0,P,Por,contini,Napoli,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+coppola d.,Verona,D,50.0,55,65,40,40,,,,,Outsider,,,,,,,,,,11/20,0/3,0/3,coppola,5764.0,D,Dc,coppola d.,Verona,4.0,4.0,0.0,4.0,4.0,0.0,8.0,8.0
+corazza,Bologna,D,50.25,43,58,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,corazza,6407.0,D,Dd;Ds;E,corazza,Bologna,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+corfitzen jeppe,Lecce,A,46.25,51,54,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,corfitzen,,,,,,,,,,,,,
+corvi,Parma,P,43.75,41,54,20,60,,,,,,,,,,,,,,,0/10,0,0,corvi,6662.0,P,Por,corvi,Parma,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+costa joao,Roma,A,48.75,59,56,20,60,,,,,,,,,,,,,,,0/10,0/2,0/2,costa,,,,,,,,,,,,,
+coulibaly l.,Lecce,C,56.25,63,62,40,60,,,,,,,,,,Buona Media,,,,,30+,0/3,0/3,coulibaly,5504.0,C,M;C,coulibaly l.,Lecce,5.0,5.0,0.0,5.0,5.0,0.0,9.0,10.0
+coulibaly w.,Parma,D,53.0,53,59,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,coulibaly,6665.0,D,Dd;Ds;E,coulibaly w.,Parma,3.0,2.0,1.0,3.0,2.0,1.0,4.0,5.0
+cragno,Monza,P,54.75,45,74,60,40,,,,,,,,,,Buona Media,,,,,0/10,0,0,cragno,2178.0,P,Por,cragno,Monza,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+cristante,Roma,C,66.0,92,72,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,cristante,779.0,C,M;C,cristante,Roma,9.0,9.0,0.0,10.0,10.0,0.0,20.0,22.0
+crnigoj,Venezia,C,51.25,46,59,40,60,,,,,,,,,,,,,,,0/10,0/3,0/2,crnigoj,5486.0,C,C,crnigoj,Venezia,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+cutrone,Como,A,72.75,74,77,60,80,,,,,Outsider,,,,,Buona Media,Goleador,,,,30+,12/15,3/5,cutrone,2155.0,A,Pc,cutrone,Como,9.0,9.0,0.0,8.0,8.0,0.0,16.0,14.0
+cyprien,Parma,C,59.5,54,64,60,60,,,,,,,,,,,,,,,21/30,0/3,0/3,cyprien,2357.0,C,M;C,cyprien,Parma,2.0,2.0,0.0,2.0,2.0,0.0,2.0,2.0
+da cunha lucas,Como,C,54.5,66,72,20,60,,,,,Outsider,,,,,,Goleador,,,,21/30,3/5,4/7,da,5559.0,C,W;T,da cunha,Como,12.0,12.0,0.0,12.0,12.0,0.0,32.0,30.0
+dahl,Roma,D,54.0,57,59,40,60,,,,,,,,,,,,Assistman,,,11/20,0/3,0/3,dahl,6647.0,D,Ds;E,dahl,Roma,3.0,3.0,0.0,3.0,3.0,0.0,8.0,8.0
+dallinga,Bologna,A,68.75,78,77,60,60,,,,,Outsider,,,,,,Goleador,,,,21/30,8/11,4/7,dallinga,6643.0,A,Pc,dallinga,Bologna,22.0,22.0,0.0,20.0,21.0,-1.0,122.0,120.0
+dambrosio,Monza,D,50.0,53,67,40,40,,,,,,,,,,,,,,,21/30,3/5,0/2,dambrosio,253.0,D,B;Dd;Ds,dambrosio,Monza,3.0,3.0,0.0,4.0,4.0,0.0,5.0,6.0
+danilo,Juventus,D,73.25,74,79,80,60,,,,,,,,,,Buona Media,,,,,21/30,3/5,0/3,danilo,4237.0,D,B;Dd;Ds,danilo,Juventus,14.0,14.0,0.0,16.0,16.0,0.0,32.0,44.0
+darmian,Inter,D,61.5,77,69,40,60,,,,,,,,,,Buona Media,,Assistman,,,11/20,0/3,3/5,darmian,2525.0,D,B;Dd;E,darmian,Inter,8.0,8.0,0.0,9.0,9.0,0.0,21.0,24.0
+davis k.,Udinese,A,52.75,47,64,40,60,,,,,,,,,,,,,,,11/20,3/5,0/2,davis,5637.0,A,Pc,davis k.,Udinese,6.0,6.0,0.0,5.0,5.0,0.0,8.0,6.0
+dawidowicz,Verona,D,55.5,58,64,40,60,,,,,,,,,,,,,,,21/30,0/2,0/2,dawidowicz,4493.0,D,Dc,dawidowicz,Verona,6.0,5.0,1.0,6.0,5.0,1.0,7.0,7.0
+de gea,Fiorentina,P,64.25,62,75,60,60,,,,Fuoriclasse,,,,,,,,,,,30+,0,0,de gea,2521.0,P,Por,de gea,Fiorentina,11.0,11.0,0.0,11.0,11.0,0.0,45.0,45.0
+de ketelaere,Atalanta,A,66.0,91,73,40,60,,,,Fuoriclasse,,,,,,,Goleador,Assistman,,,11/20,3/5,3/5,de ketelaere,5995.0,A,A,de ketelaere,Atalanta,21.0,21.0,0.0,21.0,21.0,0.0,150.0,150.0
+de roon,Atalanta,C,71.0,70,74,60,80,,,,,,,,,,Buona Media,,,,,30+,0/3,3/5,de roon,22.0,C,M;C,de roon,Atalanta,8.0,8.0,0.0,9.0,9.0,0.0,16.0,18.0
+de sciglio,Juventus,D,48.5,49,65,60,20,,,,,,,,,,,,,,,21/30,0/1,0/1,de sciglio,358.0,D,Dd;Ds;E,de sciglio,Juventus,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+de silvestri,Bologna,D,71.0,55,69,80,80,,,,,,,,,,,,Assistman,,,21/30,0/3,0/3,de silvestri,487.0,D,Dd;E,de silvestri,Bologna,3.0,3.0,0.0,3.0,3.0,0.0,5.0,5.0
+de vrij,Inter,D,68.5,72,82,60,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,,,21/30,4/7,0/3,de vrij,322.0,D,Dc,de vrij,Inter,8.0,8.0,0.0,8.0,8.0,0.0,18.0,18.0
+de winter,Genoa,D,50.75,60,63,40,40,,,,,Outsider,,,,,,,,,,21/30,0/3,0/1,de winter,5739.0,D,Dd;Dc,de winter,Genoa,6.0,6.0,0.0,6.0,6.0,0.0,8.0,10.0
+deiola,Cagliari,C,50.75,61,62,40,40,,,,,,,,,,,,,,,21/30,0/3,0/3,deiola,1871.0,C,M;C,deiola,Cagliari,4.0,4.0,0.0,5.0,5.0,0.0,6.0,7.0
+del prato enrico,Parma,D,61.5,63,63,60,60,,,,,Outsider,,,,,,,Assistman,,,30+,0/3,3/5,del prato,,,,,,,,,,,,,
+dele-bashiru fisayo,Lazio,C,52.0,69,59,20,60,,,,,Outsider,,,,,,Goleador,,,,11/20,3/5,0/3,dele-bashiru,6629.0,C,C;T,dele-bashiru,Lazio,6.0,5.0,1.0,6.0,5.0,1.0,20.0,20.0
+dembele ali,Torino,D,33.25,0,53,20,60,,,,,,,,,,,,Assistman,,,0/10,0/2,0/3,dembele,6826.0,D,E,dembele a.,Torino,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+deulofeu gerard,Udinese,A,54.75,67,72,40,40,,,,,,,,,,Buona Media,Goleador,Assistman,Rigorista,,21/30,8/11,8/11,deulofeu,,,,,,,,,,,,,
+di chiara gianluca,Venezia,D,52.5,48,62,40,60,,,,,,,,,,,,,,,0/10,0,0,di chiara,2203.0,D,Ds;E,di chiara,Parma,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+di gennaro,Inter,P,44.0,50,46,20,60,,,,,,,,,,,,,,,0/10,0,0,di gennaro,1926.0,P,Por,di gennaro,Inter,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+di gregorio,Juventus,P,70.5,84,78,60,60,,,,,Outsider,,,,,,,,,,21/30,20/30,0,di gregorio,5876.0,P,Por,di gregorio,Juventus,17.0,17.0,0.0,17.0,17.0,0.0,100.0,100.0
+di lorenzo,Napoli,D,73.75,83,72,60,80,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,,,21/30,3/5,3/5,di lorenzo,2816.0,D,B;Dd;E,di lorenzo,Napoli,17.0,18.0,-1.0,19.0,20.0,-1.0,61.0,75.0
+di pardo,Cagliari,D,46.25,47,58,20,60,,,,,,,,,,,,,,,11/20,0/2,0/2,di pardo,5406.0,D,Dd;E,di pardo,Cagliari,4.0,4.0,0.0,4.0,4.0,0.0,6.0,6.0
+dia,Lazio,A,60.75,78,65,60,40,,,,,Outsider,,,,,Buona Media,Goleador,,,,21/30,8/11,4/7,dia,5672.0,A,Pc,dia,Lazio,15.0,15.0,0.0,14.0,14.0,0.0,66.0,58.0
+dimarco,Inter,D,69.75,87,72,60,60,,,,,,,,,,Buona Media,Goleador,Assistman,,,21/30,3/5,3/5,dimarco,254.0,D,E,dimarco,Inter,24.0,24.0,0.0,23.0,23.0,0.0,101.0,96.0
+djalo tiago,Juventus,D,64.75,57,62,60,80,,,,,,,,,,,Goleador,,,,11/20,0/3,0/3,djalo,5533.0,D,Dd;Dc,djalo,Juventus,2.0,2.0,0.0,3.0,3.0,0.0,4.0,5.0
+djimsiti,Atalanta,D,61.0,75,69,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,djimsiti,787.0,D,Dc,djimsiti,Atalanta,8.0,8.0,0.0,8.0,8.0,0.0,18.0,18.0
+djuric,Monza,A,60.25,75,66,40,60,,,,,Outsider,,,,,,,,,,11/20,3/5,0/3,djuric,5471.0,A,Pc,djuric,Monza,12.0,12.0,0.0,12.0,12.0,0.0,31.0,27.0
+dodo,Fiorentina,D,57.75,64,67,40,60,,,,,Outsider,,,,,,,,,,11/20,0,3/5,dodo,5885.0,D,Dd;E,dodo,Fiorentina,9.0,9.0,0.0,9.0,9.0,0.0,25.0,25.0
+donnarumma an.,Torino,P,43.5,38,36,20,80,,,,,,,,,,,,,,,0/10,0/1,0/1,donnarumma,216.0,P,Por,donnarumma an.,Torino,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+dorgu,Lecce,D,56.75,66,61,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,0/3,0/3,dorgu,6257.0,D,Ds;E,dorgu,Lecce,8.0,8.0,0.0,8.0,8.0,0.0,20.0,20.0
+dossena,Como,D,56.25,65,60,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,0/3,0/3,dossena,6230.0,D,Dc,dossena,Como,8.0,8.0,0.0,8.0,8.0,0.0,14.0,14.0
+doumbia i.,Venezia,C,34.25,0,57,20,60,,,,,,,,,,,,,,,11/20,0/3,0/3,doumbia,6683.0,C,M;C,doumbia i.,Venezia,1.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0
+dovbyk,Roma,A,75.0,80,80,80,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,Rigorista,,30+,16/19,4/7,dovbyk,6675.0,A,Pc,dovbyk,Roma,31.0,32.0,-1.0,30.0,31.0,-1.0,254.0,250.0
+duda,Verona,C,62.25,66,63,40,80,,,,,,,,,,,,,Rigorista,,11/20,0/2,0/3,duda,4342.0,C,M;C,duda,Verona,8.0,7.0,1.0,9.0,8.0,1.0,16.0,20.0
+dumfries,Inter,D,67.0,78,70,60,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,3/5,4/7,dumfries,5513.0,D,E,dumfries,Inter,16.0,16.0,0.0,15.0,15.0,0.0,51.0,48.0
+duncan,Venezia,C,53.75,59,76,40,40,,,,,,,,,,,,,,,21/30,0/3,0/3,duncan,526.0,C,C,duncan,Venezia,8.0,8.0,0.0,8.0,8.0,0.0,16.0,15.0
+dybala,Roma,A,68.5,87,87,60,40,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,Rigorista,,21/30,8/11,4/7,dybala,309.0,A,A,dybala,Roma,34.0,34.0,0.0,35.0,35.0,0.0,285.0,291.0
+ebosele,Udinese,D,53.75,54,61,40,60,,,,,,,,,,,,,,,0/10,0/2,0/3,ebosele,5848.0,D,Dd;E,ebosele,Udinese,3.0,3.0,0.0,3.0,3.0,0.0,4.0,4.0
+ebosse,Udinese,D,51.75,46,61,40,60,,,,,,,,,,,,,,,11/20,0/1,0/2,ebosse,5994.0,D,Ds;Dc,ebosse,Udinese,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+ebuehi,Empoli,D,53.75,55,60,40,60,,,,,,,,,,Buona Media,,,,,11/20,0/2,0/2,ebuehi,5480.0,D,Dd;E,ebuehi,Empoli,4.0,4.0,0.0,4.0,4.0,0.0,6.0,6.0
+ederson dos santos,Atalanta,C,77.0,90,78,60,80,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,,,30+,3/5,3/5,ederson,5792.0,C,M;C,ederson d.s.,Atalanta,15.0,15.0,0.0,18.0,18.0,0.0,56.0,65.0
+ehizibue,Udinese,D,60.5,61,61,60,60,,,,,Outsider,,,,,,,Assistman,,,11/20,0/2,3/5,ehizibue,6047.0,D,Dd;E,ehizibue,Udinese,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+ekkelenkamp,Udinese,C,52.75,48,63,40,60,,,,,,,,,,,,,,,21/30,3/5,0/3,ekkelenkamp,6684.0,C,C;T,ekkelenkamp,Udinese,6.0,6.0,0.0,6.0,6.0,0.0,12.0,12.0
+ekong emmanuel,Empoli,A,35.5,0,62,20,60,,,,,,,,,,,,,,,11/20,3/5,3/5,ekong,,,,,,,,,,,,,
+ekuban,Genoa,A,50.75,59,64,40,40,,,,,,,,,,,,,,,11/20,3/5,3/5,ekuban,5506.0,A,A,ekuban,Genoa,9.0,9.0,0.0,9.0,9.0,0.0,10.0,10.0
+el azzouzi,Bologna,C,54.75,56,63,40,60,,,,,,,,,,,,,,,11/20,0/2,0/2,el,6225.0,C,M;C,el azzouzi,Bologna,4.0,4.0,0.0,5.0,5.0,0.0,7.0,8.0
+el shaarawy stephan,Roma,C,65.0,68,72,60,60,,,,,,,,,,,,Assistman,,,11/20,3/5,3/5,el,795.0,C,W,el shaarawy,Roma,8.0,8.0,0.0,7.0,7.0,0.0,19.0,17.0
+ellertsson,Venezia,C,53.0,49,63,40,60,,,,,Outsider,,,,,,,,,,30+,0/3,0/3,ellertsson,6020.0,C,C;W,ellertsson,Venezia,3.0,2.0,1.0,3.0,2.0,1.0,11.0,11.0
+engelhardt,Como,C,55.75,60,63,40,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/3,0/3,engelhardt,6676.0,C,M;C,engelhardt,Como,4.0,4.0,0.0,4.0,4.0,0.0,8.0,10.0
+erlic,Bologna,D,59.25,70,67,40,60,,,,,,,,,,Buona Media,Goleador,,,,21/30,0/2,0/1,erlic,4982.0,D,Dc,erlic,Bologna,7.0,6.0,1.0,7.0,6.0,1.0,17.0,17.0
+esposito se.,Empoli,A,57.75,66,65,40,60,,,,,Outsider,,,,,,Goleador,,,,11/20,4/7,3/5,esposito,4463.0,A,A,esposito se.,Empoli,4.0,3.0,1.0,4.0,3.0,1.0,12.0,10.0
+esteves g.,Udinese,D,46.75,47,60,20,60,,,,,,,,,,,,Assistman,,,11/20,0/2,3/5,esteves,6679.0,D,Dd;Ds;E,esteves g.,Udinese,2.0,2.0,0.0,2.0,2.0,0.0,3.0,3.0
+estevez,Parma,C,53.75,52,63,40,60,,,,,Outsider,,,,,,,,,,0/10,0/2,0/2,estevez,5290.0,C,M;C,estevez,Parma,4.0,4.0,0.0,5.0,5.0,0.0,10.0,12.0
+fabbian,Bologna,C,50.75,57,66,20,60,,,,,Outsider,,,,,,Goleador,,,,11/20,3/5,0/3,fabbian,6206.0,C,C;T,fabbian,Bologna,13.0,13.0,0.0,13.0,13.0,0.0,40.0,40.0
+fadera alieu,Como,C,55.0,59,61,40,60,,,,,Outsider,,,,,,,Assistman,,,11/20,3/5,3/5,fadera,6815.0,C,W;A,fadera,Como,6.0,6.0,0.0,5.0,5.0,0.0,13.0,12.0
+fagioli,Juventus,C,55.25,54,67,40,60,,,,,Outsider,,,,,,,Assistman,,,11/20,0/2,0/3,fagioli,4465.0,C,C;T,fagioli,Juventus,10.0,10.0,0.0,9.0,9.0,0.0,18.0,18.0
+falcone,Lecce,P,48.75,70,45,20,60,,,,,,,,,,,,,,,0/10,8/11,0,falcone,2134.0,P,Por,falcone,Lecce,8.0,9.0,-1.0,8.0,9.0,-1.0,32.0,32.0
+faraoni,Verona,D,55.0,53,67,40,60,,,,,,,,,,Buona Media,,,,,11/20,3/5,3/5,faraoni,581.0,D,Dd;E,faraoni,Verona,3.0,3.0,0.0,3.0,3.0,0.0,6.0,6.0
+fazzini jacopo,Empoli,C,53.25,59,54,20,80,,,,,Outsider,,,,,,,,,,11/20,3/5,3/5,fazzini,6010.0,C,C;T,fazzini,Empoli,4.0,4.0,0.0,4.0,4.0,0.0,13.0,13.0
+felici,Cagliari,C,55.5,63,59,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,3/5,0/3,felici,6640.0,C,E;W,felici,Cagliari,5.0,5.0,0.0,6.0,6.0,0.0,12.0,15.0
+ferguson,Bologna,C,43.5,60,74,20,20,,,,,,,,,,,,,,,0/10,0/3,0/3,ferguson,5858.0,C,C;T,ferguson,Bologna,18.0,18.0,0.0,18.0,18.0,0.0,42.0,42.0
+ferreira joao,Udinese,D,48.75,53,62,40,40,,,,,,,,,,,,,,,11/20,0/2,0/3,ferreira,,,,,,,,,,,,,
+fini seydou,Genoa,A,47.75,55,56,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,fini,,,,,,,,,,,,,
+fiordilino luca,Venezia,C,52.5,47,63,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,fiordilino,,,,,,,,,,,,,
+florenzi alessandro,Milan,D,61.75,70,77,60,40,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,florenzi,,,,,,,,,,,,,
+fofana y.,Milan,C,66.75,76,71,60,60,,,,,Outsider,,,,,Buona Media,Goleador,Assistman,,,21/30,3/5,3/5,fofana,4686.0,C,M;C,fofana y.,Milan,8.0,8.0,0.0,9.0,9.0,0.0,19.0,22.0
+folorunsho,Napoli,C,56.5,78,68,40,40,,,,,Outsider,,,,,,Goleador,,,,21/30,4/7,0/1,folorunsho,6252.0,C,C;T,folorunsho,Napoli,7.0,7.0,0.0,7.0,7.0,0.0,15.0,15.0
+frattesi,Inter,C,63.75,83,72,40,60,,,,,,,,,,Buona Media,Goleador,,,,21/30,3/5,0/3,frattesi,2848.0,C,C;T,frattesi,Inter,18.0,18.0,0.0,17.0,17.0,0.0,62.0,59.0
+frendrup,Genoa,C,64.0,70,66,60,60,,,,,,,,,,Buona Media,,,,,30+,0/3,0/2,frendrup,5791.0,C,E;M,frendrup,Genoa,11.0,11.0,0.0,13.0,13.0,0.0,25.0,34.0
+frese,Verona,D,57.75,64,67,40,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,0/3,3/5,frese,6639.0,D,Ds;E,frese,Verona,5.0,5.0,0.0,5.0,5.0,0.0,7.0,7.0
+freuler,Bologna,C,57.75,77,74,40,40,,,,,,,,,,,,,,,21/30,3/5,0/3,freuler,788.0,C,M;C,freuler,Bologna,9.0,9.0,0.0,10.0,10.0,0.0,19.0,22.0
+fruchtl,Lecce,P,49.5,39,59,40,60,,,,,,,,,,,,,,,0/10,0,0,fruchtl,2401.0,P,Por,fruchtl,Lecce,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+furlanetto,Lazio,P,45.75,48,55,20,60,,,,,,,,,,,,,,,0/10,0,0,furlanetto,6417.0,P,Por,furlanetto,Lazio,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+gabbia,Milan,D,63.25,70,63,60,60,,,,,,,,,,,,,,,11/20,0/3,0/1,gabbia,4401.0,D,Dc,gabbia,Milan,4.0,4.0,0.0,4.0,4.0,0.0,9.0,9.0
+gagliardini,Monza,C,58.25,64,69,40,60,,,,,,,,,,Buona Media,,,,,11/20,0/2,0/3,gagliardini,801.0,C,M;C,gagliardini,Monza,5.0,5.0,0.0,6.0,6.0,0.0,9.0,11.0
+gallo,Lecce,D,60.25,71,70,60,40,,,,,,,,,,,,,,,0/10,0,0,gallo,4502.0,D,Ds;E,gallo,Lecce,5.0,5.0,0.0,5.0,5.0,0.0,11.0,11.0
+gaspar k.,Lecce,D,54.5,55,63,40,60,,,,,,,,,,,,,,,21/30,0/3,0/3,gaspar,6632.0,D,Dc,gaspar k.,Lecce,3.0,3.0,0.0,3.0,3.0,0.0,12.0,12.0
+gatti,Juventus,D,35.0,70,30,20,20,,,,,,,,,,,,,,,0/10,0,0,gatti,5831.0,D,Dc,gatti,Juventus,7.0,7.0,0.0,7.0,7.0,0.0,16.0,16.0
+gendrey,Lecce,D,61.5,73,73,40,60,,,,,,,,,,,,,,,0/10,0,0,gendrey,5867.0,D,Dd;E,gendrey,Lecce,6.0,6.0,0.0,6.0,6.0,0.0,12.0,12.0
+ghilardi,Verona,D,46.5,45,61,20,60,,,,,,,,,,,,,,,11/20,0/1,0/1,ghilardi,6631.0,D,Dc,ghilardi,Verona,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+giannetti l.,Udinese,D,51.25,42,63,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,giannetti,6533.0,D,Dc,giannetti l.,Udinese,6.0,4.0,2.0,6.0,4.0,2.0,6.0,6.0
+gila,Lazio,D,49.75,61,58,20,60,,,,,,,,,,,,,,,0/10,0/1,0/1,gila,5833.0,D,Dc,gila,Lazio,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+gineitis,Torino,C,45.75,44,59,20,60,,,,,,,,,,,,,,,11/20,0/3,0/3,gineitis,6170.0,C,C,gineitis,Torino,4.0,4.0,0.0,4.0,4.0,0.0,12.0,10.0
+godfrey,Atalanta,D,54.5,56,62,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,godfrey,5324.0,D,B;Dd;Ds,godfrey,Atalanta,7.0,7.0,0.0,9.0,9.0,0.0,15.0,18.0
+goglichidze,Empoli,D,44.25,45,52,20,60,,,,,,,,,,,,,,,0/10,0/2,0/3,goglichidze,6537.0,D,Dd;Dc,goglichidze,Empoli,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+goldaniga,Como,D,51.0,45,59,40,60,,,,,,,,,,,,,,,11/20,0/2,0/1,goldaniga,418.0,D,Dc,goldaniga,Como,3.0,3.0,0.0,3.0,3.0,0.0,4.0,4.0
+gollini,Genoa,P,65.75,51,72,60,80,,,,,,,,,,,,,,,0/10,0,0,gollini,610.0,P,Por,gollini,Genoa,10.0,10.0,0.0,10.0,10.0,0.0,38.0,38.0
+gonzalez diego,Lazio,A,51.75,67,60,40,40,,,,,,,,,,,Goleador,Assistman,,,11/20,0/3,0/3,gonzalez,4179.0,A,A,gonzalez n.,Fiorentina,24.0,25.0,-1.0,25.0,26.0,-1.0,140.0,142.0
+gonzalez joan,Lecce,A,60.75,68,75,40,60,,,,,,,,,,,,,,,11/20,0/2,0/2,gonzalez,4179.0,A,A,gonzalez n.,Fiorentina,24.0,25.0,-1.0,25.0,26.0,-1.0,140.0,142.0
+gonzalez n.,Fiorentina,A,59.0,80,76,40,40,,,,,,,,,,,Goleador,,Rigorista,,11/20,4/7,3/5,gonzalez,4179.0,A,A,gonzalez n.,Fiorentina,24.0,25.0,-1.0,25.0,26.0,-1.0,140.0,142.0
+grassi,Empoli,C,52.5,61,69,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,grassi,27.0,C,M;C,grassi,Empoli,3.0,3.0,0.0,4.0,4.0,0.0,4.0,5.0
+guarino gabriele,Empoli,D,40.75,45,58,20,40,,,,,,,,,,,,,,,11/20,0/2,0/1,guarino,,,,,,,,,,,,,
+gudmundsson a.,Fiorentina,A,71.75,75,72,60,80,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,,,30+,8/11,3/5,gudmundsson,5800.0,A,A,gudmundsson a.,Fiorentina,26.0,27.0,-1.0,27.0,28.0,-1.0,170.0,175.0
+guendouzi,Lazio,C,66.25,70,75,60,60,,,,,Outsider,,,,,,Goleador,Assistman,,,21/30,3/5,3/5,guendouzi,4186.0,C,C,guendouzi,Lazio,10.0,10.0,0.0,9.0,9.0,0.0,18.0,16.0
+gyasi emmanuel,Empoli,C,58.5,67,67,40,60,,,,,Outsider,,,,,,,,,,21/30,3/5,0/3,gyasi,4992.0,C,W,gyasi,Empoli,5.0,5.0,0.0,5.0,5.0,0.0,11.0,10.0
+gytkjaer,Venezia,A,60.75,50,53,60,80,,,,,,,,,,,,,,,11/20,3/5,0/2,gytkjaer,5881.0,A,Pc,gytkjaer,Venezia,5.0,5.0,0.0,4.0,4.0,0.0,6.0,5.0
+haas,Empoli,C,53.25,50,63,40,60,,,,,,,,,,,,,,,21/30,0/2,0/2,haas,2161.0,C,M;C,haas,Empoli,2.0,2.0,0.0,2.0,2.0,0.0,3.0,3.0
+hainaut antoine,Parma,C,39.75,46,53,20,40,,,,,,,,,,,,,,,0/10,0/3,0/2,hainaut,,,,,,,,,,,,,
+haps,Venezia,D,55.0,54,66,40,60,,,,,,,,,,,,,,,11/20,0/3,3/5,haps,5695.0,D,Ds;E,haps,Venezia,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+harroui,Verona,C,55.25,57,64,40,60,,,,,,,,,,,,,,,21/30,0/3,0/3,harroui,5688.0,C,W;T,harroui,Verona,13.0,13.0,0.0,13.0,13.0,0.0,37.0,37.0
+hatzidiakos,Cagliari,D,57.75,47,64,60,60,,,,,,,,,,,,,,,21/30,0/3,3/5,hatzidiakos,6438.0,D,Dd;Dc,hatzidiakos,Cagliari,3.0,3.0,0.0,3.0,3.0,0.0,4.0,4.0
+henderson l.,Empoli,C,60.5,60,62,40,80,,,,,,,,,,,,,,,11/20,0/2,0/2,henderson,4498.0,C,C;T,henderson l.,Empoli,5.0,4.0,1.0,5.0,4.0,1.0,8.0,8.0
+hernandez t.,Milan,D,72.5,86,84,60,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,Rigorista,,21/30,4/7,3/5,hernandez,4292.0,D,Ds;E,hernandez t.,Milan,20.0,20.0,0.0,20.0,20.0,0.0,80.0,80.0
+hernani,Parma,C,56.25,56,69,40,60,,,,,,,,,,Buona Media,,,,,21/30,3/5,3/5,hernani,4423.0,C,C,hernani,Parma,6.0,6.0,0.0,5.0,5.0,0.0,11.0,9.0
+hien,Atalanta,D,58.0,72,60,40,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/2,0/2,hien,6046.0,D,Dc,hien,Atalanta,8.0,8.0,0.0,8.0,8.0,0.0,21.0,21.0
+holm,Bologna,D,55.0,60,60,40,60,,,,,Outsider,,,,,,,,,,21/30,3/5,3/5,holm,5678.0,D,Dd;E,holm,Bologna,9.0,9.0,0.0,9.0,9.0,0.0,26.0,26.0
+hysaj,Lazio,D,58.0,69,63,40,60,,,,,,,,,,,,,,,11/20,0/1,0/2,hysaj,140.0,D,Dd;Ds;E,hysaj,Lazio,4.0,4.0,0.0,5.0,5.0,0.0,6.0,8.0
+idzes,Venezia,D,55.0,57,63,60,40,,,,,Outsider,,,,,,Goleador,,,,30+,0/3,0/3,idzes,6672.0,D,Dc,idzes,Venezia,4.0,4.0,0.0,4.0,4.0,0.0,9.0,9.0
+ikone jonathan,Fiorentina,C,61.25,69,76,40,60,,,,,,,,,,,Goleador,,,,11/20,3/5,4/7,ikone,4658.0,C,W,ikone,Fiorentina,5.0,5.0,0.0,5.0,5.0,0.0,13.0,13.0
+ilic,Torino,C,49.75,69,30,40,60,,,,,,,,,,,,,,,21/30,0/3,0/3,ilic,5007.0,C,C,ilic,Torino,8.0,7.0,1.0,8.0,7.0,1.0,21.0,21.0
+ilic m.,Bologna,D,52.5,49,61,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,ilic,6551.0,D,Dc,ilic m.,Bologna,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+ilkhan emirhan,Torino,C,53.5,54,60,40,60,,,,,,,,,,,Goleador,Assistman,,,0/10,0/3,0/3,ilkhan,,,,,,,,,,,,,
+infantino gino,Fiorentina,C,51.0,45,59,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,infantino,,,,,,,,,,,,,
+iovine,Como,D,48.25,51,62,20,60,,,,,,,,,,,,Assistman,,,11/20,0/2,0/3,iovine,6654.0,D,Dd;E,iovine,Como,3.0,3.0,0.0,3.0,3.0,0.0,7.0,7.0
+isaksen,Lazio,A,62.5,62,68,60,60,,,,,,,,,,,Goleador,,,,21/30,4/7,3/5,isaksen,6398.0,A,W;A,isaksen,Lazio,11.0,11.0,0.0,12.0,12.0,0.0,22.0,26.0
+ismajli,Empoli,D,54.0,53,63,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/1,0/1,ismajli,5010.0,D,Dc,ismajli,Empoli,7.0,6.0,1.0,7.0,6.0,1.0,9.0,9.0
+izzo,Monza,D,68.25,56,77,60,80,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,izzo,226.0,D,Dc,izzo,Monza,7.0,6.0,1.0,7.0,6.0,1.0,11.0,11.0
+jajalo,Venezia,C,40.0,39,61,40,20,,,,,,,,,,,,,,,11/20,0/1,0/1,jajalo,434.0,C,M;C,jajalo,Venezia,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+jankto,Cagliari,C,59.5,46,72,60,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,3/5,4/7,jankto,1987.0,C,E;C,jankto,Cagliari,3.0,3.0,0.0,4.0,4.0,0.0,6.0,7.0
+jesus juan,Napoli,D,56.25,61,64,40,60,,,,,,,,,,,,,,,11/20,0/1,0/1,jesus,,,,,,,,,,,,,
+jimenez alex,Milan,D,49.5,59,59,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,jimenez,,,,,,,,,,,,,
+joronen,Venezia,P,52.25,47,62,40,60,,,,,,,,,,,,,,,30+,0,0,joronen,4425.0,P,Por,joronen,Venezia,6.0,6.0,0.0,6.0,6.0,0.0,16.0,16.0
+jovic,Milan,A,61.25,71,74,40,60,,,,,,,,,,,Goleador,,Rigorista,,11/20,4/7,0/3,jovic,2438.0,A,Pc,jovic,Milan,9.0,10.0,-1.0,9.0,9.0,0.0,16.0,15.0
+kaba,Lecce,C,53.75,52,63,40,60,,,,,,,,,,,,,,,30+,0/3,0/3,kaba,6410.0,C,M;C,kaba,Lecce,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+kalulu,Juventus,D,53.5,57,57,40,60,,,,,,,,,,,,,,,11/20,0/1,0/1,kalulu,4976.0,D,Dd;Dc,kalulu,Juventus,4.0,4.0,0.0,5.0,5.0,0.0,10.0,12.0
+kamara h.,Udinese,D,57.75,65,66,40,60,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,kamara,5555.0,D,Ds;E,kamara h.,Udinese,6.0,5.0,1.0,6.0,5.0,1.0,13.0,13.0
+karlsson jesper,Bologna,C,59.75,65,74,60,40,,,,,Outsider,,,,,,Goleador,Assistman,,,21/30,4/7,4/7,karlsson,6459.0,C,W;A,karlsson,Bologna,7.0,7.0,0.0,6.0,6.0,0.0,10.0,8.0
+karlstrom,Udinese,C,55.25,56,65,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,karlstrom,6680.0,C,M;C,karlstrom,Udinese,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+karsdorp rick,Roma,D,59.75,69,70,40,60,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,karsdorp,,,,,,,,,,,,,
+kastanos grigoris,Verona,C,53.5,54,60,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,kastanos,2117.0,C,C;T,kastanos,Verona,5.0,4.0,1.0,5.0,4.0,1.0,7.0,7.0
+kayode,Fiorentina,D,57.5,70,60,40,60,,,,,Outsider,,,,,,,,,,11/20,0/3,0/3,kayode,6235.0,D,Dd;Ds;E,kayode,Fiorentina,5.0,5.0,0.0,6.0,6.0,0.0,8.0,10.0
+kean,Fiorentina,A,62.0,56,72,40,80,,,,,Outsider,,,,,,Goleador,,,,21/30,8/11,3/5,kean,2097.0,A,Pc,kean,Fiorentina,20.0,21.0,-1.0,20.0,21.0,-1.0,101.0,96.0
+kebasele cristian,Udinese,D,52.25,47,62,40,60,,,,,,,,,,,,,,,21/30,0/2,0/1,kebasele,,,,,,,,,,,,,
+kolasinac,Atalanta,D,54.75,69,70,40,40,,,,,,,,,,,,,,,21/30,3/5,3/5,kolasinac,2640.0,D,B;Ds;E,kolasinac,Atalanta,9.0,9.0,0.0,10.0,10.0,0.0,21.0,25.0
+koopmeiners,Atalanta,C,77.5,96,74,60,80,,,,,,,,,,Buona Media,,Assistman,Rigorista,,21/30,8/11,4/7,koopmeiners,5685.0,C,T,koopmeiners,Atalanta,28.0,29.0,-1.0,27.0,28.0,-1.0,160.0,154.0
+kostic,Juventus,C,67.75,75,76,60,60,,,,,,,,,,,Goleador,Assistman,,,21/30,4/7,4/7,kostic,4711.0,C,E;W,kostic,Juventus,4.0,4.0,0.0,5.0,5.0,0.0,7.0,9.0
+kouame,Fiorentina,A,63.75,73,82,60,40,,,,,,,,,,Buona Media,Goleador,,,,21/30,3/5,3/5,kouame,2762.0,A,A,kouame,Fiorentina,4.0,4.0,0.0,4.0,4.0,0.0,6.0,6.0
+kovacik,Como,D,54.5,57,61,40,60,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,kovacik,6637.0,D,Dd;E,kovacik,Como,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+kovalenko viktor,Atalanta,C,62.75,66,65,40,80,,,,,,,,,,,Goleador,,,,0/10,0/3,0/3,kovalenko,,,,,,,,,,,,,
+kristensen t.,Udinese,D,50.5,60,62,40,40,,,,,,,,,,,,,,,11/20,0/2,0/1,kristensen,6485.0,D,Dc,kristensen t.,Udinese,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+krstovic,Lecce,A,58.0,70,62,40,60,,,,,Outsider,,,,,,Goleador,,Rigorista,,21/30,8/11,0/3,krstovic,6435.0,A,Pc,krstovic,Lecce,16.0,17.0,-1.0,15.0,16.0,-1.0,76.0,72.0
+kvaratskhelia,Napoli,A,82.75,83,88,80,80,,,,,Outsider,,,,,,Goleador,Assistman,Rigorista,,21/30,8/11,4/7,kvaratskhelia,5839.0,A,A,kvaratskhelia,Napoli,28.0,29.0,-1.0,29.0,30.0,-1.0,248.0,248.0
+kyriakopoulos georgios,Monza,D,59.25,72,65,40,60,,,,,,,,,,,,,,,11/20,0/1,0/2,kyriakopoulos,4530.0,D,Ds;E,kyriakopoulos,Monza,6.0,6.0,0.0,6.0,6.0,0.0,13.0,13.0
+lapadula,Cagliari,A,62.75,56,75,60,60,,,,,,,,,,,Goleador,,Rigorista,,30+,8/11,3/5,lapadula,1939.0,A,Pc,lapadula,Cagliari,9.0,9.0,0.0,8.0,8.0,0.0,11.0,9.0
+lazaro,Torino,D,59.0,70,66,40,60,,,,,,,,,,,,,,,11/20,0/3,0/2,lazaro,4385.0,D,E,lazaro,Torino,5.0,4.0,1.0,5.0,4.0,1.0,8.0,7.0
+lazovic,Verona,C,64.5,69,69,40,80,,,,,,,,,,Buona Media,,Assistman,,,21/30,3/5,3/5,lazovic,236.0,C,W,lazovic,Verona,11.0,10.0,1.0,10.0,9.0,1.0,23.0,19.0
+lazzari,Lazio,D,70.5,68,74,60,80,,,,,,,,,,Buona Media,,Assistman,,,21/30,0/3,3/5,lazzari,2263.0,D,Dd;E,lazzari,Lazio,6.0,5.0,1.0,6.0,5.0,1.0,12.0,12.0
+le fee,Roma,C,59.5,70,68,60,40,,,,,Outsider,,,,,,Goleador,,,,21/30,3/5,3/5,le,6299.0,C,C;T,le fee,Roma,10.0,10.0,0.0,10.0,10.0,0.0,21.0,21.0
+leali,Genoa,P,41.25,33,52,20,60,,,,,,,,,,,,,,,0/10,0,0,leali,188.0,P,Por,leali,Genoa,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+leao,Milan,A,64.25,85,72,40,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,,,21/30,8/11,4/7,leao,4510.0,A,A,leao,Milan,24.0,25.0,-1.0,25.0,26.0,-1.0,189.0,195.0
+linetty,Torino,C,61.25,71,74,40,60,,,,,,,,,,Buona Media,,,,,21/30,3/5,0/3,linetty,2008.0,C,M;C,linetty,Torino,4.0,3.0,1.0,4.0,3.0,1.0,7.0,7.0
+livramento rocha dailon,Verona,A,58.75,70,65,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,4/7,4/7,livramento,,,,,,,,,,,,,
+lobotka,Napoli,C,62.75,81,70,40,60,,,,Fuoriclasse,,,,,,Buona Media,,,,,21/30,0/3,0/3,lobotka,4287.0,C,M;C,lobotka,Napoli,9.0,9.0,0.0,9.0,10.0,-1.0,16.0,20.0
+locatelli,Juventus,C,67.5,77,73,60,60,,,,,,,,,,Buona Media,Goleador,,,,21/30,3/5,0/3,locatelli,827.0,C,M;C,locatelli,Juventus,8.0,8.0,0.0,9.0,9.0,0.0,19.0,22.0
+loftus-cheek ruben,Milan,C,66.25,68,77,60,60,,,,,,,,,,Buona Media,,,,,0/10,0/3,3/5,loftus-cheek,4199.0,C,C;T,loftus-cheek,Milan,19.0,19.0,0.0,19.0,19.0,0.0,58.0,58.0
+lookman,Atalanta,A,53.0,85,47,40,40,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,,,21/30,8/11,4/7,lookman,4730.0,A,A,lookman,Atalanta,27.0,28.0,-1.0,28.0,29.0,-1.0,222.0,222.0
+lovric,Udinese,C,57.75,67,64,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,lovric,5850.0,C,C,lovric,Udinese,10.0,10.0,0.0,10.0,10.0,0.0,25.0,23.0
+lucca,Udinese,A,57.25,65,64,40,60,,,,,,,,,,,Goleador,,Rigorista,,21/30,8/11,3/5,lucca,6215.0,A,Pc,lucca,Udinese,13.0,14.0,-1.0,12.0,13.0,-1.0,58.0,54.0
+lucumi,Bologna,D,56.0,69,55,40,60,,,,,,,,,,,,,,,11/20,0,0,lucumi,6042.0,D,Dc,lucumi,Bologna,7.0,7.0,0.0,7.0,7.0,0.0,14.0,14.0
+luiz douglas,Juventus,C,69.0,79,77,60,60,,,,Fuoriclasse,,,,,,,Goleador,,,,21/30,4/7,4/7,luiz,,,,,,,,,,,,,
+luperto,Cagliari,D,63.25,71,62,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,luperto,393.0,D,Dc,luperto,Cagliari,8.0,8.0,0.0,8.0,8.0,0.0,14.0,14.0
+luvumbo,Cagliari,A,58.0,69,63,40,60,,,,,,,,,,,,,,,11/20,3/5,3/5,luvumbo,5297.0,A,A,luvumbo,Cagliari,12.0,12.0,0.0,12.0,12.0,0.0,38.0,40.0
+lykogiannis,Bologna,D,61.25,55,70,60,60,,,,,,,,,,,,Assistman,,,21/30,3/5,0/3,lykogiannis,2653.0,D,Ds;E,lykogiannis,Bologna,5.0,4.0,1.0,5.0,4.0,1.0,7.0,7.0
+machin,Monza,C,54.0,54,62,40,60,,,,,,,,,,,,,,,11/20,0/2,0/2,machin,666.0,C,C,machin,Monza,2.0,2.0,0.0,2.0,2.0,0.0,4.0,3.0
+magnani,Verona,D,52.5,67,63,40,40,,,,,,,,,,,,,,,11/20,0/1,0/1,magnani,2769.0,D,Dc,magnani,Verona,4.0,3.0,1.0,4.0,3.0,1.0,5.0,5.0
+maignan,Milan,P,68.0,79,73,60,60,,,,Fuoriclasse,,,,,,Buona Media,,,,,21/30,20/30,0,maignan,4312.0,P,Por,maignan,Milan,15.0,15.0,0.0,15.0,15.0,0.0,82.0,82.0
+makoumbou,Cagliari,C,56.5,58,68,40,60,,,,,,,,,,,,,,,30+,0/3,0/3,makoumbou,6232.0,C,M;C,makoumbou,Cagliari,4.0,4.0,0.0,5.0,5.0,0.0,7.0,8.0
+maldini daniel,Monza,C,54.5,57,61,40,60,,,,,Outsider,,,,,,,,,,21/30,3/5,3/5,maldini,4896.0,C,T;A,maldini,Monza,9.0,9.0,0.0,8.0,8.0,0.0,16.0,14.0
+maleh,Empoli,C,58.25,67,66,40,60,,,,,,,,,,Buona Media,,Assistman,,,11/20,0/3,0/3,maleh,5457.0,C,C,maleh,Empoli,4.0,3.0,1.0,4.0,3.0,1.0,8.0,8.0
+malinovskyi ruslan,Genoa,C,75.0,82,78,60,80,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,Rigorista,,21/30,8/11,8/11,malinovskyi,4427.0,C,C;T,malinovskyi,Genoa,11.0,11.0,0.0,11.0,11.0,0.0,29.0,29.0
+man dennis,Parma,C,64.5,71,67,60,60,,,,,Outsider,,,,,Buona Media,Goleador,Assistman,,,30+,8/11,3/5,man,5393.0,C,W;A,man,Parma,20.0,19.0,1.0,19.0,18.0,1.0,81.0,81.0
+mancini,Roma,D,73.0,77,75,60,80,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/2,mancini,2296.0,D,Dc,mancini,Roma,10.0,10.0,0.0,10.0,10.0,0.0,26.0,26.0
+mandas,Lazio,P,46.75,62,45,20,60,,,,,,,,,,,,,,,0/10,0,0,mandas,6482.0,P,Por,mandas,Lazio,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+mandragora,Fiorentina,C,62.0,76,72,60,40,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,mandragora,1933.0,C,M;C,mandragora,Fiorentina,8.0,8.0,0.0,9.0,9.0,0.0,16.0,18.0
+marcandalli,Genoa,D,46.25,46,59,20,60,,,,,,,,,,,,,,,11/20,0/2,0/3,marcandalli,6660.0,D,Dc,marcandalli,Genoa,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+marchwinski filip,Lecce,C,55.25,60,61,40,60,,,,,Outsider,,,,,,,,,,11/20,0/3,0/3,marchwinski,6645.0,C,T,marchwinski,Lecce,8.0,8.0,0.0,7.0,7.0,0.0,16.0,13.0
+mari,Monza,D,58.0,66,66,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/2,0/1,mari,4904.0,D,Dc,mari,Monza,7.0,7.0,0.0,7.0,7.0,0.0,15.0,15.0
+marin,Cagliari,C,57.75,64,67,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,marin,4965.0,C,M;C,marin,Cagliari,7.0,6.0,1.0,7.0,6.0,1.0,13.0,15.0
+marin r.,Napoli,D,51.0,59,65,40,40,,,,,,,,,,,,,,,21/30,0/3,0/2,marin,6638.0,D,Dc,marin r.,Napoli,8.0,8.0,0.0,8.0,8.0,0.0,18.0,18.0
+martin,Genoa,D,63.25,63,70,60,60,,,,,,,,,,,Goleador,Assistman,,,21/30,3/5,3/5,martin,2593.0,D,Ds;E,martin,Genoa,5.0,4.0,1.0,5.0,4.0,1.0,13.0,13.0
+martinelli t.,Fiorentina,P,42.75,43,48,20,60,,,,,,,,,,,,,,,0/10,0,0,martinelli,6184.0,P,Por,martinelli t.,Fiorentina,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+martinez jo.,Inter,P,61.75,82,65,40,60,,,,,,,,,,,,,,,0/10,0,0,martinez,5116.0,P,Por,martinez jo.,Inter,2.0,2.0,0.0,2.0,2.0,0.0,4.0,4.0
+martinez l.,Inter,A,79.75,91,88,60,80,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,Rigorista,,21/30,12/15,3/5,martinez,2764.0,A,Pc,martinez l.,Inter,40.0,41.0,-1.0,40.0,42.0,-2.0,420.0,425.0
+martinez quarta,Fiorentina,D,59.75,76,63,40,60,,,,,,,,,,,,,,,11/20,0/2,0/2,martinez,5323.0,D,Dc,martinez quarta,Fiorentina,11.0,11.0,0.0,11.0,11.0,0.0,32.0,32.0
+marusic,Lazio,D,62.75,83,68,40,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,3/5,3/5,marusic,2188.0,D,Dd;Ds;E,marusic,Lazio,6.0,6.0,0.0,7.0,7.0,0.0,10.0,12.0
+masina,Torino,D,56.5,60,66,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,masina,49.0,D,B;Ds;E,masina,Torino,6.0,6.0,0.0,7.0,7.0,0.0,12.0,14.0
+matturro,Genoa,D,46.0,39,65,20,60,,,,,,,,,,,,,,,0/10,0/3,0/2,matturro,6244.0,D,Dc,matturro,Genoa,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+mazzitelli,Como,C,58.75,65,70,60,40,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,mazzitelli,1976.0,C,M;C,mazzitelli,Como,8.0,8.0,0.0,9.0,9.0,0.0,18.0,20.0
+mazzocchi,Napoli,D,58.75,72,63,40,60,,,,,,,,,,,,Assistman,,,11/20,0/2,0/3,mazzocchi,5481.0,D,E,mazzocchi,Napoli,4.0,4.0,0.0,4.0,4.0,0.0,12.0,12.0
+mbangoula samuel,Juventus,A,55.0,75,65,20,60,,,,,Outsider,,,,,,Goleador,,,,21/30,3/5,3/5,mbangoula,,,,,,,,,,,,,
+mckennie,Juventus,C,66.5,73,73,60,60,,,,,,,,,,Buona Media,,,,,21/30,3/5,3/5,mckennie,4973.0,C,M;C,mckennie,Juventus,7.0,7.0,0.0,8.0,8.0,0.0,12.0,14.0
+melegoni filippo,Genoa,C,46.75,49,58,20,60,,,,,,,,,,,,,,,0/10,0/2,0/2,melegoni,,,,,,,,,,,,,
+meret,Napoli,P,72.25,77,72,80,60,,,,,,,,,,Buona Media,,,,,11/20,20/30,0,meret,572.0,P,Por,meret,Napoli,14.0,15.0,-1.0,14.0,15.0,-1.0,72.0,72.0
+messias junior,Genoa,C,54.25,52,65,40,60,,,,,Outsider,,,,,,Goleador,Assistman,Rigorista,,21/30,4/7,3/5,messias,4970.0,C,C;W,messias,Genoa,9.0,9.0,0.0,9.0,9.0,0.0,17.0,17.0
+mihaila,Parma,A,54.75,52,67,40,60,,,,,Outsider,,,,,,,,,,21/30,3/5,0/3,mihaila,5322.0,A,W;A,mihaila,Parma,8.0,8.0,0.0,9.0,9.0,0.0,13.0,17.0
+milik,Juventus,A,68.75,76,79,80,40,,,,,,,,,,,Goleador,,Rigorista,,21/30,8/11,3/5,milik,2012.0,A,Pc,milik,Juventus,12.0,12.0,0.0,10.0,10.0,0.0,22.0,18.0
+milinkovic-savic v.,Torino,P,66.25,81,64,60,60,,,,,,,,,,,,,,,30+,30/40,0,milinkovic-savic,2170.0,P,Por,milinkovic-savic v.,Torino,10.0,10.0,0.0,10.0,10.0,0.0,42.0,42.0
+mina,Cagliari,D,50.5,57,65,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,mina,4210.0,D,Dc,mina,Cagliari,8.0,8.0,0.0,8.0,8.0,0.0,13.0,13.0
+miranda j.,Bologna,D,55.25,55,66,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,miranda,4734.0,D,Ds;E,miranda j.,Bologna,8.0,8.0,0.0,8.0,8.0,0.0,16.0,16.0
+miretti,Juventus,C,57.75,55,76,40,60,,,,,,,,,,,,,,,11/20,0/2,0/3,miretti,5813.0,C,C;T,miretti,Juventus,4.0,4.0,0.0,4.0,4.0,0.0,5.0,5.0
+mitrovic stefan,Verona,C,52.75,53,58,40,60,,,,,,,,,,,,Assistman,,,11/20,0/3,0/3,mitrovic,6579.0,C,W,mitrovic s.,Verona,3.0,3.0,0.0,3.0,3.0,0.0,6.0,5.0
+mkhitaryan,Inter,C,67.0,91,77,60,40,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,,,21/30,4/7,4/7,mkhitaryan,2529.0,C,C,mkhitaryan,Inter,15.0,15.0,0.0,14.0,14.0,0.0,43.0,40.0
+montipo lorenzo,Verona,P,61.5,82,64,40,60,,,,,,,,,,Buona Media,,,,,21/30,40/50,0,montipo,4957.0,P,Por,montipo,Verona,8.0,7.0,1.0,8.0,7.0,1.0,30.0,30.0
+morata,Milan,A,71.75,82,85,60,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,Rigorista,,21/30,16/19,3/5,morata,313.0,A,Pc,morata,Milan,27.0,26.0,1.0,27.0,26.0,1.0,181.0,177.0
+moreno alb.,Como,D,55.25,55,66,40,60,,,,,,,,,,,,Assistman,,,21/30,0/2,3/5,moreno,5435.0,D,Ds;E,moreno alb.,Como,7.0,7.0,0.0,7.0,7.0,0.0,17.0,17.0
+morente tete,Lecce,A,54.0,53,63,40,60,,,,,,,,,,,,,,,11/20,3/5,0/3,morente,,,,,,,,,,,,,
+moro n.,Bologna,C,48.75,56,59,40,40,,,,,,,,,,,,,,,11/20,0,0,moro,6054.0,C,M;C,moro n.,Bologna,3.0,2.0,1.0,3.0,2.0,1.0,8.0,9.0
+mosquera,Verona,A,59.0,71,65,40,60,,,,,Outsider,,,,,,Goleador,,,,11/20,3/5,0/3,mosquera,6630.0,A,Pc,mosquera,Verona,10.0,8.0,2.0,9.0,7.0,2.0,23.0,20.0
+mota,Monza,A,53.25,69,64,40,40,,,,,,,,,,Buona Media,,,,,21/30,4/7,0/3,mota,5882.0,A,A,mota,Monza,10.0,10.0,0.0,10.0,10.0,0.0,18.0,19.0
+musah,Milan,C,63.0,62,70,60,60,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/2,musah,5295.0,C,C;W,musah,Milan,5.0,4.0,1.0,5.0,4.0,1.0,10.0,10.0
+musso,Atalanta,P,64.75,69,70,60,60,,,,,,,,,,,,,,,11/20,8/11,0,musso,2792.0,P,Por,musso,Atalanta,4.0,3.0,1.0,4.0,3.0,1.0,57.0,57.0
+ndicka evan,Roma,D,64.5,70,68,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/2,ndicka,4317.0,D,Dc,ndicka,Roma,8.0,8.0,0.0,8.0,8.0,0.0,20.0,20.0
+ndoye dan,Bologna,C,58.25,65,68,40,60,,,,,,,,,,,,Assistman,,,11/20,3/5,3/5,ndoye,5564.0,C,W,ndoye,Bologna,10.0,10.0,0.0,9.0,9.0,0.0,24.0,22.0
+ngonge,Napoli,A,69.75,69,70,60,80,,,,,,,,,,Buona Media,Goleador,,,,11/20,8/11,3/5,ngonge,6145.0,A,W;A,ngonge,Napoli,9.0,9.0,0.0,10.0,10.0,0.0,12.0,16.0
+nicolussi caviglia,Juventus,C,52.75,51,60,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,nicolussi,4349.0,C,M;C,nicolussi caviglia,Juventus,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+norton-cuffy brooke,Genoa,D,53.25,49,64,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,norton-cuffy,6814.0,D,Dd;E,norton-cuffy,Genoa,4.0,4.0,0.0,4.0,4.0,0.0,5.0,5.0
+noslin,Lazio,A,56.25,67,58,40,60,,,,,,,,,,,Goleador,Assistman,,,21/30,3/5,3/5,noslin,6556.0,A,A,noslin,Lazio,16.0,16.0,0.0,16.0,16.0,0.0,73.0,78.0
+obert,Cagliari,D,57.0,43,65,40,80,,,,,,,,,,,,,,,21/30,0/2,0/2,obert,5701.0,D,Dc,obert,Cagliari,2.0,2.0,0.0,2.0,2.0,0.0,3.0,3.0
+odgaard,Bologna,A,58.25,66,67,40,60,,,,,Outsider,,,,,,Goleador,,,,0/10,0/3,0/3,odgaard,2765.0,A,A,odgaard,Bologna,10.0,10.0,0.0,11.0,11.0,0.0,13.0,15.0
+okafor,Milan,A,62.0,71,77,60,40,,,,,Outsider,,,,,,Goleador,,,,21/30,4/7,3/5,okafor,6227.0,A,A,okafor,Milan,12.0,11.0,1.0,12.0,11.0,1.0,21.0,21.0
+okou,Verona,D,47.5,50,60,20,60,,,,,,,,,,,Goleador,,,,11/20,0/1,0/1,okou,6284.0,D,Dc,okou,Verona,2.0,2.0,0.0,2.0,2.0,0.0,3.0,3.0
+okoye,Udinese,P,49.75,66,53,40,40,,,,,,,,,,,,,,,0/10,8/11,0,okoye,6462.0,P,Por,okoye,Udinese,7.0,7.0,0.0,7.0,7.0,0.0,27.0,27.0
+olivera,Napoli,D,66.25,70,75,60,60,,,,,,,,,,,,Assistman,,,11/20,0,0,olivera,5840.0,D,B;Ds;E,olivera,Napoli,7.0,7.0,0.0,8.0,8.0,0.0,16.0,20.0
+oristanio gaetano,Venezia,C,61.5,55,71,60,60,,,,,Outsider,,,,,,Goleador,,,,21/30,3/5,3/5,oristanio,6218.0,C,W;T;A,oristanio,Venezia,9.0,9.0,0.0,10.0,10.0,0.0,23.0,26.0
+orsolini riccardo,Bologna,C,62.5,74,76,60,40,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,Rigorista,,21/30,8/11,4/7,orsolini,2167.0,C,W,orsolini,Bologna,22.0,21.0,1.0,22.0,21.0,1.0,89.0,89.0
+osimhen,Napoli,A,72.25,89,80,60,60,,,,Fuoriclasse,,,,,,,Goleador,,Rigorista,,21/30,16/19,3/5,osimhen,4661.0,A,Pc,osimhen,Napoli,34.0,35.0,-1.0,35.0,36.0,-1.0,370.0,375.0
+osorio,Parma,D,53.0,48,64,40,60,,,,,,,,,,,,,,,11/20,0/3,0/1,osorio,5327.0,D,Dc,osorio,Parma,4.0,4.0,0.0,4.0,4.0,0.0,6.0,6.0
+oudin remi,Lecce,C,49.0,64,52,40,40,,,,,,,,,,,,Assistman,,,11/20,3/5,0/3,oudin,6061.0,C,W;T,oudin,Lecce,7.0,7.0,0.0,7.0,7.0,0.0,12.0,14.0
+padelli,Udinese,P,43.75,25,50,20,80,,,,,,,,,,,,,,,0/10,0,0,padelli,543.0,P,Por,padelli,Udinese,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+pajac marko,Genoa,D,47.0,50,58,40,40,,,,,,,,,,,,,,,0/10,0/1,0/2,pajac,,,,,,,,,,,,,
+palestra marco,Atalanta,D,32.75,0,51,20,60,,,,,,,,,,,,,,,0/10,0,0,palestra,,,,,,,,,,,,,
+palomino,Cagliari,D,56.25,51,74,40,60,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,palomino,2181.0,D,Dc,palomino,Cagliari,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+paredes,Roma,C,55.75,68,75,40,40,,,,,,,,,,Buona Media,,Assistman,,,21/30,0/3,0/3,paredes,468.0,C,M;C,paredes,Roma,7.0,7.0,0.0,8.0,8.0,0.0,16.0,18.0
+parisi,Fiorentina,D,58.0,70,62,40,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,0/3,3/5,parisi,5449.0,D,Ds;E,parisi,Fiorentina,8.0,8.0,0.0,8.0,8.0,0.0,20.0,20.0
+partipilo,Parma,A,48.0,51,61,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,partipilo,6668.0,A,A,partipilo,Parma,2.0,2.0,0.0,2.0,2.0,0.0,2.0,2.0
+pasalic,Atalanta,C,71.25,89,76,60,60,,,,,,,,,,Buona Media,Goleador,,,,11/20,4/7,3/5,pasalic,2077.0,C,C;T,pasalic,Atalanta,16.0,15.0,1.0,16.0,15.0,1.0,52.0,52.0
+patric,Lazio,D,56.75,66,61,40,60,,,,,,,,,,,,,,,11/20,0/1,0/1,patric,327.0,D,Dd;Dc,patric,Lazio,5.0,5.0,0.0,5.0,5.0,0.0,10.0,12.0
+pavard,Inter,D,67.25,72,77,60,60,,,,Fuoriclasse,,,,,,,Goleador,,,,21/30,0/3,3/5,pavard,4177.0,D,Dd;Dc,pavard,Inter,14.0,14.0,0.0,15.0,15.0,0.0,42.0,46.0
+pavlovic,Milan,D,59.0,67,69,60,40,,,,,Outsider,,,,,Buona Media,Goleador,,,,21/30,0/3,0/3,pavlovic,5022.0,D,Dc,pavlovic,Milan,10.0,10.0,0.0,10.0,10.0,0.0,27.0,27.0
+pavoletti,Cagliari,A,55.75,55,68,40,60,,,,,,,,,,Buona Media,,,,,11/20,4/7,0/3,pavoletti,247.0,A,Pc,pavoletti,Cagliari,4.0,3.0,1.0,4.0,3.0,1.0,5.0,5.0
+payero,Udinese,C,46.0,63,61,40,20,,,,,,,,,,,Goleador,,,,11/20,3/5,3/5,payero,6481.0,C,C,payero,Udinese,8.0,8.0,0.0,7.0,7.0,0.0,13.0,10.0
+pedro,Lazio,A,59.5,61,77,60,40,,,,,,,,,,,Goleador,,,,11/20,4/7,4/7,pedro,2489.0,A,A,pedro,Lazio,3.0,3.0,0.0,3.0,3.0,0.0,5.0,5.0
+pellegri,Torino,A,60.5,61,61,40,80,,,,,,,,,,,Goleador,,,,21/30,4/7,0/3,pellegri,2103.0,A,Pc,pellegri,Torino,3.0,3.0,0.0,3.0,3.0,0.0,4.0,4.0
+pellegrini lo.,Roma,C,72.75,87,84,60,60,,,,Fuoriclasse,,,,,,Buona Media,,Assistman,Rigorista,,21/30,4/7,8/11,pellegrini,530.0,C,C;T,pellegrini lo.,Roma,22.0,22.0,0.0,22.0,22.0,0.0,73.0,73.0
+pellegrini lu.,Lazio,D,62.0,58,70,60,60,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,pellegrini,2728.0,D,Ds;E,pellegrini lu.,Lazio,3.0,3.0,0.0,3.0,3.0,0.0,6.0,6.0
+pelmard,Lecce,D,53.0,51,61,40,60,,,,,,,,,,,,,,,21/30,0/3,0/3,pelmard,6806.0,D,Dd;Ds;Dc,pelmard,Lecce,3.0,3.0,0.0,5.0,5.0,0.0,7.0,9.0
+pereira p.,Monza,D,56.5,58,68,40,60,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,pereira,729.0,D,Dd;E,pereira p.,Monza,5.0,5.0,0.0,5.0,5.0,0.0,8.0,8.0
+perez n.,Udinese,D,49.5,68,30,40,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/1,0/1,perez,5677.0,D,Dc,perez n.,Udinese,7.0,7.0,0.0,7.0,7.0,0.0,15.0,15.0
+perin,Juventus,P,55.75,50,73,40,60,,,,,,,,,,Buona Media,,,,,21/30,30/40,0,perin,218.0,P,Por,perin,Juventus,2.0,2.0,0.0,2.0,2.0,0.0,3.0,3.0
+perisan,Empoli,P,38.0,32,40,20,60,,,,,,,,,,,,,,,0/10,0,0,perisan,673.0,P,Por,perisan,Empoli,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+pessina,Monza,C,65.5,71,71,60,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,3/5,3/5,pessina,2741.0,C,M;C,pessina,Monza,12.0,12.0,0.0,13.0,13.0,0.0,36.0,42.0
+petagna,Monza,A,62.25,66,83,40,60,,,,,,,,,,,,,,,11/20,4/7,3/5,petagna,383.0,A,Pc,petagna,Monza,5.0,5.0,0.0,3.0,3.0,0.0,13.0,10.0
+pezzella giu.,Empoli,D,57.25,61,68,40,60,,,,,,,,,,,,,,,11/20,0/1,0/3,pezzella,770.0,D,Ds;E,pezzella giu.,Empoli,5.0,5.0,0.0,5.0,5.0,0.0,7.0,7.0
+piccoli,Cagliari,A,58.25,63,70,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,8/11,3/5,piccoli,4359.0,A,Pc,piccoli,Cagliari,13.0,13.0,0.0,12.0,12.0,0.0,50.0,42.0
+pierini,Venezia,A,55.0,58,62,40,60,,,,,,,,,,,,Assistman,,,21/30,0,0,pierini,1842.0,A,A,pierini,Venezia,3.0,3.0,0.0,3.0,3.0,0.0,4.0,4.0
+pierotti,Lecce,A,51.75,48,59,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,pierotti,6549.0,A,W;A,pierotti,Lecce,4.0,4.0,0.0,4.0,4.0,0.0,4.0,4.0
+pierret,Lecce,C,50.5,46,56,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,pierret,6633.0,C,M;C,pierret,Lecce,4.0,4.0,0.0,5.0,5.0,0.0,8.0,9.0
+pinamonti,Genoa,A,69.0,76,80,60,60,,,,,,,,,,Buona Media,Goleador,,Rigorista,,21/30,8/11,0/3,pinamonti,2038.0,A,Pc,pinamonti,Genoa,18.0,18.0,0.0,17.0,17.0,0.0,83.0,78.0
+pinsoglio,Juventus,P,39.5,34,44,20,60,,,,,,,,,,,,,,,0/10,0,0,pinsoglio,1930.0,P,Por,pinsoglio,Juventus,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+pisilli,Roma,C,49.75,62,57,20,60,,,,,,,,,,,Goleador,,,,0/10,0/3,0/3,pisilli,6190.0,C,C,pisilli,Roma,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+pizzignacco,Monza,P,47.0,52,56,20,60,,,,,,,,,,,,,,,11/20,40/50,0,pizzignacco,6682.0,P,Por,pizzignacco,Monza,2.0,1.0,1.0,2.0,1.0,1.0,15.0,15.0
+pobega,Milan,C,57.5,60,70,40,60,,,,,,,,,,Buona Media,,,,,21/30,3/5,0/3,pobega,5298.0,C,M;C,pobega,Milan,2.0,2.0,0.0,3.0,3.0,0.0,5.0,6.0
+pogba paul,Juventus,C,77.25,78,91,80,60,,,,,,,,,,,Goleador,Assistman,,,30+,4/7,4/7,pogba,,,,,,,,,,,,,
+pohjanpalo,Venezia,A,68.5,82,72,60,60,,,,Fuoriclasse,,,,,,,Goleador,,Rigorista,,30+,12/15,0/3,pohjanpalo,5079.0,A,Pc,pohjanpalo,Venezia,16.0,16.0,0.0,15.0,15.0,0.0,80.0,75.0
+politano matteo,Napoli,C,73.75,83,72,60,80,,,,,,,,,,Buona Media,Goleador,,,,21/30,4/7,3/5,politano,536.0,C,W,politano,Napoli,23.0,24.0,-1.0,22.0,23.0,-1.0,70.0,70.0
+pongracic,Fiorentina,D,60.5,72,70,60,40,,,,,,,,,,,,,,,21/30,0/2,0/1,pongracic,5603.0,D,Dc,pongracic,Fiorentina,8.0,9.0,-1.0,8.0,9.0,-1.0,20.0,20.0
+posch,Bologna,D,65.25,72,69,60,60,,,,,,,,,,,,,,,11/20,3/5,3/5,posch,6066.0,D,Dd;Dc,posch,Bologna,8.0,8.0,0.0,9.0,9.0,0.0,18.0,21.0
+prati,Cagliari,C,47.0,57,51,20,60,,,,,Outsider,,,,,,,,,,21/30,0/3,0/3,prati,6424.0,C,M;C,prati,Cagliari,4.0,4.0,0.0,5.0,5.0,0.0,9.0,11.0
+provedel,Lazio,P,67.75,73,78,60,60,,,,,,,,,,Buona Media,,,,,21/30,20/30,0,provedel,2814.0,P,Por,provedel,Lazio,12.0,12.0,0.0,12.0,12.0,0.0,60.0,60.0
+pulisic christian,Milan,C,62.75,78,73,40,60,,,,,,,,,,,Goleador,,,,21/30,4/7,3/5,pulisic,2423.0,C,T;A,pulisic,Milan,29.0,30.0,-1.0,28.0,29.0,-1.0,172.0,165.0
+radonjic nemanja,Torino,A,55.5,56,66,60,40,,,,,,,,,,,,Assistman,,,21/30,3/5,3/5,radonjic,,,,,,,,,,,,,
+radu ionut andrei,Inter,P,60.0,50,70,40,80,,,,,,,,,,Buona Media,,,,,0/10,0,0,radu,,,,,,,,,,,,,
+rafia hamza,Lecce,C,49.75,54,65,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,rafia,6222.0,C,C;T,rafia,Lecce,4.0,4.0,0.0,4.0,4.0,0.0,8.0,8.0
+raimondo,Venezia,A,34.75,0,59,20,60,,,,,,,,,,,,,,,11/20,3/5,0/3,raimondo,5436.0,A,Pc,raimondo,Venezia,1.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0
+ramadani,Lecce,C,56.75,62,65,40,60,,,,,,,,,,,,,,,21/30,0/3,0/2,ramadani,6394.0,C,M;C,ramadani,Lecce,5.0,5.0,0.0,6.0,6.0,0.0,10.0,12.0
+ranieri l.,Fiorentina,D,61.5,68,58,40,80,,,,,,,,,,Buona Media,,,,,21/30,0/2,0/1,ranieri,4378.0,D,Ds;Dc,ranieri l.,Fiorentina,7.0,7.0,0.0,8.0,8.0,0.0,15.0,16.0
+raspadori,Napoli,A,67.75,74,77,60,60,,,,,Outsider,,,,,,Goleador,,,,21/30,8/11,3/5,raspadori,4371.0,A,A,raspadori,Napoli,10.0,11.0,-1.0,11.0,12.0,-1.0,22.0,22.0
+ravaglia f.,Bologna,P,29.0,36,40,20,20,,,,,,,,,,,,,,,0/10,0,0,ravaglia,2722.0,P,Por,ravaglia f.,Bologna,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+reijnders,Milan,C,67.25,77,72,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,reijnders,6224.0,C,C,reijnders,Milan,12.0,12.0,0.0,11.0,11.0,0.0,31.0,28.0
+reina,Como,P,43.25,31,62,40,40,,,,,,,,,,,,,,,11/20,30/40,0,reina,387.0,P,Por,reina,Como,2.0,2.0,0.0,2.0,2.0,0.0,12.0,12.0
+retegui,Atalanta,A,66.75,77,70,60,60,,,,,Outsider,,,,,,Goleador,,Rigorista,,21/30,12/15,0/3,retegui,6228.0,A,Pc,retegui,Atalanta,22.0,20.0,2.0,21.0,19.0,2.0,145.0,140.0
+ricci s.,Torino,C,57.5,67,63,40,60,,,,,Outsider,,,,,,,,,,21/30,3/5,0/3,ricci,5453.0,C,M;C,ricci s.,Torino,8.0,8.0,0.0,9.0,9.0,0.0,20.0,22.0
+richardson,Fiorentina,C,57.0,64,64,40,60,,,,,Outsider,,,,,,,,,,21/30,3/5,0/3,richardson,6804.0,C,M;C,richardson,Fiorentina,8.0,8.0,0.0,8.0,8.0,0.0,16.0,17.0
+romagnoli,Lazio,D,71.75,68,79,80,60,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/2,romagnoli,460.0,D,Dc,romagnoli,Lazio,10.0,10.0,0.0,10.0,10.0,0.0,26.0,26.0
+rossi f.,Atalanta,P,45.25,39,42,20,80,,,,,,,,,,,,,,,0/10,0,0,rossi,2297.0,P,Por,rossi f.,Atalanta,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+rovella,Lazio,C,58.0,64,68,40,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/1,0/2,rovella,4459.0,C,M;C,rovella,Lazio,7.0,7.0,0.0,7.0,7.0,0.0,11.0,12.0
+royal emerson,Milan,D,60.25,53,68,60,60,,,,,,,,,,,,,,,21/30,0/3,0/3,royal,,,,,,,,,,,,,
+rrahmani,Napoli,D,60.25,73,68,40,60,,,,,,,,,,,,,,,21/30,0/3,0/1,rrahmani,4409.0,D,Dc,rrahmani,Napoli,10.0,11.0,-1.0,10.0,11.0,-1.0,26.0,26.0
+ruggeri,Atalanta,D,57.5,69,61,40,60,,,,,Outsider,,,,,,,Assistman,,,11/20,0/3,3/5,ruggeri,5354.0,D,E,ruggeri,Atalanta,12.0,11.0,1.0,11.0,10.0,1.0,42.0,40.0
+rui mario,Napoli,D,62.75,56,75,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/2,0/3,rui,,,,,,,,,,,,,
+ryan,Roma,P,52.5,48,62,40,60,,,,,,,,,,,,,,,0/10,0,0,ryan,5384.0,P,Por,ryan,Roma,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+sabelli,Genoa,D,54.75,56,63,40,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,0/3,3/5,sabelli,791.0,D,Dd;Ds;E,sabelli,Genoa,6.0,6.0,0.0,7.0,7.0,0.0,8.0,10.0
+saco coli,Napoli,C,54.25,59,58,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,saco,,,,,,,,,,,,,
+saelemaekers alexis,Milan,C,68.5,80,74,40,80,,,,,,,,,,,Goleador,,,,11/20,3/5,0/3,saelemaekers,4892.0,C,W,saelemaekers,Milan,5.0,5.0,0.0,5.0,5.0,0.0,12.0,11.0
+sagrado,Venezia,D,48.0,51,61,40,40,,,,,,,,,,,,,,,21/30,0/3,0/3,sagrado,6681.0,D,Dd;E,sagrado,Venezia,2.0,1.0,1.0,2.0,1.0,1.0,7.0,7.0
+sala m.,Como,D,48.25,57,56,20,60,,,,,,,,,,,,,,,0/10,0,0,sala,4386.0,D,Ds;E,sala m.,Como,2.0,2.0,0.0,2.0,2.0,0.0,6.0,6.0
+samardzic,Atalanta,C,60.5,81,61,40,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,11/20,3/5,3/5,samardzic,5119.0,C,T,samardzic,Atalanta,17.0,17.0,0.0,16.0,16.0,0.0,53.0,48.0
+samek daniel,Lecce,C,40.5,46,36,40,40,,,,,,,,,,,,,,,0/10,0,0,samek,,,,,,,,,,,,,
+sanabria,Torino,A,61.25,72,73,40,60,,,,,,,,,,,,,Rigorista,,11/20,4/7,0/3,sanabria,479.0,A,Pc,sanabria,Torino,10.0,10.0,0.0,9.0,9.0,0.0,18.0,18.0
+sanchez,Udinese,A,56.0,63,81,40,40,,,,,Outsider,,,,,Buona Media,,Assistman,,,11/20,8/11,4/7,sanchez,2475.0,A,A,sanchez,Udinese,16.0,16.0,0.0,16.0,16.0,0.0,75.0,75.0
+sandro alex,Juventus,D,64.5,62,76,60,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,3/5,4/7,sandro,,,,,,,,,,,,,
+sansone nicola,Lecce,A,58.0,59,73,60,40,,,,,,,,,,Buona Media,,Assistman,Rigorista,,21/30,4/7,4/7,sansone,,,,,,,,,,,,,
+sazonov,Torino,D,50.75,45,58,40,60,,,,,,,,,,,,,,,11/20,0,0,sazonov,6474.0,D,Dc,sazonov,Torino,1.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0
+scalvini,Atalanta,D,55.25,64,57,20,80,,,,,,,,,,,,,,,0/10,0/2,0/1,scalvini,5526.0,D,Dc,scalvini,Atalanta,8.0,8.0,0.0,8.0,8.0,0.0,12.0,12.0
+scamacca,Atalanta,A,63.75,86,69,60,40,,,,,,,,,,,Goleador,,,,0/10,0/3,0/3,scamacca,2137.0,A,Pc,scamacca,Atalanta,27.0,28.0,-1.0,26.0,27.0,-1.0,145.0,140.0
+schuurs,Torino,D,47.25,59,30,60,40,,,,,,,,,,Buona Media,,,,,21/30,0/2,0/2,schuurs,6041.0,D,Dc,schuurs,Torino,7.0,7.0,0.0,7.0,7.0,0.0,10.0,10.0
+scuffet,Cagliari,P,51.5,64,62,20,60,,,,,,,,,,,,,,,0/10,0,0,scuffet,574.0,P,Por,scuffet,Cagliari,8.0,7.0,1.0,8.0,7.0,1.0,29.0,29.0
+sensi,Monza,C,51.75,57,70,60,20,,,,,,,,,,,Goleador,,,,0/10,0/3,0/3,sensi,1978.0,C,C;T,sensi,Monza,7.0,7.0,0.0,7.0,7.0,0.0,16.0,16.0
+serdar,Verona,C,62.25,59,70,60,60,,,,,,,,,,,Goleador,,,,21/30,3/5,3/5,serdar,6458.0,C,M;C,serdar,Verona,5.0,5.0,0.0,6.0,6.0,0.0,10.0,12.0
+sherri,Cagliari,P,50.0,42,58,40,60,,,,,,,,,,,,,,,0/10,0,0,sherri,6650.0,P,Por,sherri,Cagliari,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+shomurodov eldor,Roma,A,65.75,71,72,60,60,,,,,,,,,,,Goleador,,,,0/10,0/3,0/3,shomurodov,,,,,,,,,,,,,
+shpendi s.,Empoli,A,49.5,39,59,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,shpendi,6395.0,A,A,shpendi s.,Empoli,3.0,3.0,0.0,3.0,3.0,0.0,5.0,5.0
+silva dani,Verona,C,49.25,44,53,40,60,,,,,,,,,,,,,,,0/10,0/2,0/2,silva,,,,,,,,,,,,,
+silvestri,Udinese,P,61.0,52,72,60,60,,,,,,,,,,Buona Media,,,,,30+,40/50,0,silvestri,2211.0,P,Por,silvestri,Udinese,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+simeone,Napoli,A,63.25,59,74,60,60,,,,,,,,,,,,,,,21/30,4/7,3/5,simeone,2061.0,A,Pc,simeone,Napoli,11.0,11.0,0.0,10.0,10.0,0.0,15.0,13.0
+skorupski,Bologna,P,63.25,83,70,40,60,,,,,,,,,,Buona Media,,,Rigorista,,30+,40/50,0,skorupski,133.0,P,Por,skorupski,Bologna,12.0,11.0,1.0,12.0,11.0,1.0,55.0,55.0
+smalling,Roma,D,58.25,58,75,60,40,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/2,smalling,4245.0,D,Dc,smalling,Roma,8.0,8.0,0.0,8.0,8.0,0.0,12.0,12.0
+sohm,Parma,C,53.0,50,62,40,60,,,,,,,,,,,,Assistman,,,21/30,0/1,3/5,sohm,5319.0,C,C,sohm,Parma,6.0,5.0,1.0,5.0,4.0,1.0,13.0,12.0
+solbakken,Empoli,A,61.25,55,70,40,80,,,,,,,,,,,,Assistman,,,11/20,3/5,4/7,solbakken,6119.0,A,A,solbakken,Empoli,4.0,3.0,1.0,4.0,3.0,1.0,5.0,5.0
+sommariva,Genoa,P,41.75,42,45,20,60,,,,,,,,,,,,,,,0/10,0,0,sommariva,219.0,P,Por,sommariva,Genoa,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+sommer,Inter,P,64.75,82,77,60,40,,,,,,,,,,,,,,,21/30,20/30,0,sommer,2428.0,P,Por,sommer,Inter,18.0,18.0,0.0,18.0,18.0,0.0,111.0,111.0
+sorrentino a.,Monza,P,49.75,40,59,40,60,,,,,,,,,,,,,,,11/20,40/50,0,sorrentino,5853.0,P,Por,sorrentino a.,Monza,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+sosa b.,Torino,D,58.25,64,69,40,60,,,,,Outsider,,,,,,,Assistman,,,21/30,0/3,3/5,sosa,6820.0,D,E,sosa b.,Torino,8.0,8.0,0.0,7.0,7.0,0.0,16.0,14.0
+sottil riccardo,Fiorentina,C,58.75,68,67,40,60,,,,,,,,,,,,,,,11/20,3/5,0/3,sottil,2839.0,C,W,sottil,Fiorentina,9.0,9.0,0.0,9.0,9.0,0.0,19.0,18.0
+soule,Roma,A,58.25,71,62,60,40,,,,,Outsider,,,,,Buona Media,Goleador,Assistman,,,21/30,8/11,4/7,soule,5734.0,A,W;A,soule,Roma,20.0,20.0,0.0,22.0,22.0,0.0,99.0,110.0
+spinazzola,Napoli,D,52.75,60,71,60,20,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,0/3,4/7,spinazzola,1852.0,D,E,spinazzola,Napoli,13.0,13.0,0.0,12.0,12.0,0.0,43.0,40.0
+sportiello,Milan,P,59.75,53,66,40,80,,,,,,,,,,Buona Media,,,,,0/10,3/5,0,sportiello,4.0,P,Por,sportiello,Milan,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+stankovic f.,Venezia,P,51.75,49,58,40,60,,,,,,,,,,,,,,,30+,0,0,stankovic,6248.0,P,Por,stankovic f.,Venezia,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+stojanovic,Empoli,D,55.5,61,61,40,60,,,,,,,,,,,,,,,21/30,0/1,0/2,stojanovic,5450.0,D,Dd;E,stojanovic,Empoli,4.0,4.0,0.0,4.0,4.0,0.0,5.0,5.0
+strefezza gabriel,Como,C,56.75,65,62,40,60,,,,,,,,,,,,Assistman,,,21/30,8/11,0/3,strefezza,4486.0,C,W,strefezza,Como,12.0,12.0,0.0,11.0,11.0,0.0,32.0,30.0
+success,Udinese,A,49.5,57,61,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,success,5676.0,A,A,success,Udinese,3.0,3.0,0.0,3.0,3.0,0.0,3.0,3.0
+sulemana i.,Atalanta,C,61.25,64,61,40,80,,,,,,,,,,,,,,,11/20,0/2,0/2,sulemana,6024.0,C,M;C,sulemana i.,Atalanta,2.0,2.0,0.0,3.0,3.0,0.0,4.0,5.0
+suslov,Verona,C,54.75,61,58,40,60,,,,,Outsider,,,,,,,Assistman,,,21/30,3/5,4/7,suslov,6486.0,C,W;T,suslov,Verona,13.0,13.0,0.0,13.0,13.0,0.0,37.0,37.0
+suzuki,Parma,P,58.0,51,61,60,60,,,,,,,,,,,,,,,21/30,0,0,suzuki,6641.0,P,Por,suzuki,Parma,7.0,7.0,0.0,7.0,7.0,0.0,22.0,22.0
+sverko,Venezia,D,53.0,49,63,40,60,,,,,,,,,,,,,,,30+,0/3,0/3,sverko,6673.0,D,B;Ds;E,sverko,Venezia,4.0,4.0,0.0,5.0,5.0,0.0,7.0,9.0
+svilar,Roma,P,61.25,73,52,60,60,,,,,Outsider,,,,,,,,,,11/20,8/11,0,svilar,5841.0,P,Por,svilar,Roma,14.0,13.0,1.0,14.0,13.0,1.0,72.0,68.0
+svoboda,Venezia,D,52.5,48,62,40,60,,,,,Outsider,,,,,,,,,,11/20,0/2,0/2,svoboda,5484.0,D,Dc,svoboda,Venezia,4.0,4.0,0.0,4.0,4.0,0.0,6.0,6.0
+tameze,Torino,C,62.5,66,64,40,80,,,,,,,,,,,,,,,21/30,0/3,0/2,tameze,4890.0,C,M;C,tameze,Torino,5.0,5.0,0.0,6.0,6.0,0.0,9.0,11.0
+taremi,Inter,A,53.25,65,68,40,40,,,,,,,,,,Buona Media,,Assistman,,,11/20,4/7,3/5,taremi,6628.0,A,Pc,taremi,Inter,15.0,15.0,0.0,14.0,14.0,0.0,70.0,65.0
+tavares n.,Lazio,D,49.25,54,63,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,tavares,5620.0,D,Ds;E,tavares n.,Lazio,6.0,6.0,0.0,6.0,6.0,0.0,10.0,10.0
+tavsan,Verona,A,50.75,48,55,40,60,,,,,,,,,,,,,,,0/10,0/3,0/3,tavsan,6558.0,A,W;A,tavsan,Verona,4.0,4.0,0.0,4.0,4.0,0.0,4.0,5.0
+tchaouna loum,Lazio,C,56.0,65,59,40,60,,,,,Outsider,,,,,,,Assistman,,,11/20,3/5,3/5,tchaouna,5919.0,C,W,tchaouna,Lazio,9.0,9.0,0.0,9.0,9.0,0.0,16.0,15.0
+tchatchoua,Verona,D,48.75,57,58,40,40,,,,,,,,,,,,,,,11/20,0/3,0/3,tchatchoua,6480.0,D,Dd;E,tchatchoua,Verona,7.0,6.0,1.0,7.0,6.0,1.0,14.0,14.0
+tengstedt,Verona,A,54.25,73,64,20,60,,,,,Outsider,,,,,,Goleador,,,,21/30,4/7,3/5,tengstedt,6801.0,A,Pc,tengstedt,Verona,12.0,12.0,0.0,11.0,11.0,0.0,23.0,20.0
+terracciano,Fiorentina,P,52.25,69,60,20,60,,,,,,,,,,,,,,,0/10,3/5,0,terracciano,2815.0,P,Por,terracciano,Fiorentina,11.0,11.0,0.0,11.0,11.0,0.0,9.0,9.0
+terracciano filippo,Milan,P,56.0,62,62,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,terracciano,2815.0,P,Por,terracciano,Fiorentina,11.0,11.0,0.0,11.0,11.0,0.0,9.0,9.0
+tessmann,Venezia,C,51.5,47,59,40,60,,,,,,,,,,,,,,,0/10,0/1,0/2,tessmann,5492.0,C,M;C,tessmann,Venezia,7.0,7.0,0.0,8.0,8.0,0.0,13.0,15.0
+thauvin,Udinese,A,62.5,55,75,60,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,3/5,4/7,thauvin,2369.0,A,A,thauvin,Udinese,9.0,10.0,-1.0,9.0,10.0,-1.0,25.0,25.0
+thiaw,Milan,D,56.75,60,67,40,60,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/1,thiaw,6055.0,D,Dc,thiaw,Milan,3.0,4.0,-1.0,3.0,4.0,-1.0,10.0,10.0
+thorsby,Genoa,C,57.0,64,64,40,60,,,,,,,,,,,,,,,21/30,0/2,0/2,thorsby,4404.0,C,C,thorsby,Genoa,5.0,5.0,0.0,4.0,4.0,0.0,10.0,8.0
+thuram,Inter,A,70.0,82,78,60,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,,,21/30,12/15,4/7,thuram,4871.0,A,Pc,thuram,Inter,33.0,31.0,2.0,32.0,30.0,2.0,260.0,260.0
+thuram k.,Juventus,C,52.25,62,67,40,40,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/3,thuram,5562.0,C,M;C,thuram k.,Juventus,10.0,10.0,0.0,12.0,12.0,0.0,25.0,30.0
+toloi,Atalanta,D,63.5,60,74,80,40,,,,,,,,,,Buona Media,,,,,21/30,0/3,0/1,toloi,695.0,D,Dc,toloi,Atalanta,4.0,4.0,0.0,4.0,4.0,0.0,9.0,9.0
+tomori,Milan,D,62.25,72,77,40,60,,,,,Outsider,,,,,Buona Media,,,,,21/30,0/2,0/2,tomori,4751.0,D,Dc,tomori,Milan,14.0,14.0,0.0,14.0,14.0,0.0,40.0,40.0
+torriani,Milan,P,31.75,0,47,20,60,,,,,,,,,,,,,,,0/10,0,0,torriani,6813.0,P,Por,torriani,Milan,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+toure el bilal,Atalanta,A,58.0,60,72,60,40,,,,,,,,,,,Goleador,,,,21/30,4/7,0/3,toure,6229.0,A,Pc,toure e.,Atalanta,11.0,11.0,0.0,9.0,9.0,0.0,39.0,35.0
+traore chaka,Milan,A,53.75,58,57,40,60,,,,,Outsider,,,,,,,,,,0/10,0/3,0/3,traore,,,,,,,,,,,,,
+urbanski,Bologna,C,52.5,52,58,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,urbanski,5425.0,C,C;W;T,urbanski,Bologna,5.0,5.0,0.0,6.0,6.0,0.0,10.0,11.0
+valenti,Parma,D,39.0,42,54,40,20,,,,,,,,,,,,,,,0/10,0/2,0/1,valenti,5307.0,D,Dc,valenti,Parma,3.0,3.0,0.0,3.0,3.0,0.0,5.0,5.0
+valentini nicolas,Fiorentina,D,53.75,53,62,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,valentini,,,,,,,,,,,,,
+valeri,Parma,D,57.5,70,60,40,60,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,valeri,5862.0,D,Ds;E,valeri,Parma,6.0,6.0,0.0,6.0,6.0,0.0,11.0,11.0
+varane,Como,D,53.5,62,72,40,40,,,,Fuoriclasse,,,,,,Buona Media,,,,,21/30,0/3,0/3,varane,2602.0,D,Dc,varane,Como,9.0,9.0,0.0,9.0,9.0,0.0,17.0,17.0
+vasquez,Genoa,D,64.25,68,69,40,80,,,,,,,,,,,,,,,11/20,0/3,0/2,vasquez,5514.0,D,Ds;Dc,vasquez,Genoa,9.0,9.0,0.0,10.0,10.0,0.0,16.0,18.0
+vasquez d.,Empoli,P,53.5,52,62,40,60,,,,,,,,,,,,,,,30+,40/50,0,vasquez,6125.0,P,Por,vasquez d.,Empoli,6.0,5.0,1.0,6.0,5.0,1.0,14.0,14.0
+vecino,Lazio,C,60.75,69,74,40,60,,,,,,,,,,Buona Media,,,,,21/30,3/5,0/3,vecino,181.0,C,M;C,vecino,Lazio,7.0,7.0,0.0,8.0,8.0,0.0,15.0,18.0
+verdi simone,Como,C,60.5,65,77,60,40,,,,,,,,,,,Goleador,,Rigorista,,21/30,4/7,4/7,verdi,376.0,C,W;T,verdi,Como,9.0,9.0,0.0,9.0,9.0,0.0,18.0,20.0
+vignato samuele,Monza,C,53.0,51,61,40,60,,,,,Outsider,,,,,,,,,,0/10,0/2,0/2,vignato,5879.0,C,T;A,vignato s.,Monza,2.0,2.0,0.0,2.0,2.0,0.0,5.0,4.0
+vigorito,Como,P,50.75,35,48,40,80,,,,,,,,,,,,,,,0/10,0,0,vigorito,2809.0,P,Por,vigorito,Como,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+viola,Cagliari,C,53.5,55,59,60,40,,,,,,,,,,Buona Media,,,,,11/20,0/3,0/3,viola,440.0,C,C;T,viola,Cagliari,6.0,6.0,0.0,6.0,6.0,0.0,14.0,14.0
+viti,Empoli,D,50.0,48,52,40,60,,,,,Outsider,,,,,,,,,,21/30,0/2,0/1,viti,5718.0,D,Dc,viti,Empoli,5.0,5.0,0.0,5.0,5.0,0.0,6.0,6.0
+vitinha vitor manuel,Genoa,A,50.25,40,61,40,60,,,,,Outsider,,,,,,,Assistman,,,21/30,4/7,3/5,vitinha,6164.0,A,Pc,vitinha o.,Genoa,12.0,12.0,0.0,11.0,11.0,0.0,79.0,75.0
+vlahovic,Juventus,A,74.5,89,89,60,60,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,Rigorista,,21/30,20+,4/7,vlahovic,2841.0,A,Pc,vlahovic,Juventus,36.0,37.0,-1.0,37.0,38.0,-1.0,354.0,354.0
+vlasic nikola,Torino,C,64.5,68,70,60,60,,,,,,,,,,,,,,,11/20,3/5,3/5,vlasic,5687.0,C,T,vlasic,Torino,15.0,15.0,0.0,14.0,14.0,0.0,50.0,42.0
+vogliacco,Genoa,D,54.5,56,62,40,60,,,,,,,,,,,,,,,11/20,0,0,vogliacco,6245.0,D,Dd;Dc,vogliacco,Genoa,4.0,2.0,2.0,4.0,2.0,2.0,4.0,4.0
+vojvoda,Torino,D,58.75,69,66,40,60,,,,,,,,,,Buona Media,,,,,21/30,0/2,0/2,vojvoda,4994.0,D,B;Dd;E,vojvoda,Torino,6.0,6.0,0.0,7.0,7.0,0.0,12.0,14.0
+walukiewicz,Empoli,D,50.25,58,63,40,40,,,,,,,,,,,,,,,0/10,0/1,0/1,walukiewicz,4374.0,D,Dc,walukiewicz,Empoli,5.0,4.0,1.0,5.0,4.0,1.0,6.0,6.0
+weah timothy,Juventus,C,57.0,64,64,40,60,,,,,,,,,,,,Assistman,,,21/30,3/5,3/5,weah,4662.0,C,W,weah,Juventus,7.0,5.0,2.0,6.0,4.0,2.0,21.0,20.0
+wieteska,Cagliari,D,51.5,44,62,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,wieteska,6464.0,D,Dc,wieteska,Cagliari,4.0,3.0,1.0,4.0,3.0,1.0,4.0,4.0
+yalcin guven,Genoa,A,47.75,55,56,20,60,,,,,,,,,,,,,,,0/10,0/3,0/3,yalcin,,,,,,,,,,,,,
+yildiz,Juventus,A,55.5,64,58,40,60,,,,,,,,,,,,,,,21/30,8/11,3/5,yildiz,6434.0,A,A,yildiz,Juventus,16.0,15.0,1.0,17.0,16.0,1.0,75.0,77.0
+zaccagni mattia,Lazio,C,79.0,76,80,80,80,,,,Fuoriclasse,,,,,,Buona Media,Goleador,Assistman,,,21/30,8/11,4/7,zaccagni,632.0,C,W;A,zaccagni,Lazio,28.0,27.0,1.0,27.0,26.0,1.0,155.0,155.0
+zalewski nicola,Roma,C,56.5,62,64,40,60,,,,,,,,,,,,,,,21/30,3/5,0/3,zalewski,5422.0,C,W,zalewski,Roma,3.0,2.0,1.0,3.0,2.0,1.0,8.0,7.0
+zampano,Venezia,D,54.0,51,65,40,60,,,,,,,,,,,,Assistman,,,21/30,0/3,3/5,zampano,1952.0,D,Dd;Ds;E,zampano,Venezia,5.0,5.0,0.0,6.0,6.0,0.0,8.0,10.0
+zaniolo nicolo,Atalanta,C,68.0,73,79,60,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,4/7,4/7,zaniolo,2766.0,C,T;A,zaniolo,Atalanta,13.0,13.0,0.0,12.0,12.0,0.0,40.0,43.0
+zanoli,Genoa,D,60.25,55,66,40,80,,,,,Outsider,,,,,,,Assistman,,,21/30,0/2,0/3,zanoli,5527.0,D,Dd;E,zanoli,Genoa,6.0,6.0,0.0,6.0,6.0,0.0,9.0,9.0
+zapata d.,Torino,A,66.25,80,85,60,40,,,,Fuoriclasse,,,,,,Buona Media,Goleador,,Rigorista,,11/20,4/7,4/7,zapata,608.0,A,Pc,zapata d.,Torino,26.0,25.0,1.0,26.0,25.0,1.0,168.0,165.0
+zappa,Cagliari,D,58.5,66,68,40,60,,,,,Outsider,,,,,Buona Media,,Assistman,,,21/30,0/3,0/3,zappa,4461.0,D,B;Dd;E,zappa,Cagliari,6.0,6.0,0.0,7.0,7.0,0.0,10.0,12.0
+zappacosta,Atalanta,D,67.25,81,68,60,60,,,,,,,,,,Buona Media,,Assistman,,,21/30,3/5,3/5,zappacosta,554.0,D,E,zappacosta,Atalanta,9.0,9.0,0.0,8.0,8.0,0.0,28.0,26.0
+zarraga,Udinese,C,59.0,50,66,60,60,,,,,,,,,,Buona Media,,,,,21/30,0/2,0/3,zarraga,6212.0,C,M;C,zarraga,Udinese,3.0,3.0,0.0,4.0,4.0,0.0,6.0,8.0
+zemura,Udinese,D,55.75,54,69,40,60,,,,,,,,,,,,,,,21/30,0/2,0/3,zemura,6211.0,D,Ds;E,zemura,Udinese,3.0,3.0,0.0,3.0,3.0,0.0,4.0,4.0
+zerbin,Napoli,C,50.75,73,30,40,60,,,,,,,,,,,,,,,11/20,0/3,0/3,zerbin,5998.0,C,E;W,zerbin,Napoli,2.0,2.0,0.0,2.0,2.0,0.0,4.0,4.0
+zielinski,Inter,C,75.0,80,80,80,60,,,,,,,,,,Buona Media,Goleador,,,,30+,8/11,3/5,zielinski,152.0,C,C;T,zielinski,Inter,11.0,11.0,0.0,11.0,11.0,0.0,28.0,28.0
+zortea,Cagliari,D,56.5,65,61,40,60,,,,,Outsider,,,,,,Goleador,,,,21/30,3/5,3/5,zortea,4433.0,D,Dd;Ds;E,zortea,Cagliari,7.0,7.0,0.0,8.0,8.0,0.0,16.0,19.0
+zurkowski,Empoli,C,60.75,59,64,60,60,,,,,,,,,,,Goleador,,,,11/20,3/5,3/5,zurkowski,4376.0,C,C;T,zurkowski,Empoli,10.0,10.0,0.0,10.0,10.0,0.0,23.0,23.0
